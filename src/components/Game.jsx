@@ -5,7 +5,7 @@ import Dictionary from "./Dictionary";
 // import Dictionary from "./Dictionary";
 // import englishWords from "../english_words.json";
 import englishWords from "../500-english-words.json";
-import germanWords from "../500-english-words.json";
+import germanWords from "../1000-ge-en-words.json";
 
 function Game(props) {
   const [point, setPoint] = useState(0);
@@ -19,18 +19,24 @@ function Game(props) {
     thirdPartState: "third_visible",
   });
   const [numbersAmount, setNumbersAmount] = useState(12);
-  const [dataName, setDataName] = useState("englishWords");
+  const [dataName, setDataName] = useState("germanWords");
   console.log("dont change", dataName);
-  const sentences = useMemo(() => console.log("change", dataName), [dataName]);
-  console.log(englishWords[400]);
+  const data = useMemo(() => {
+    return dataName == "englishWords"
+      ? germanWords
+      : dataName == "germanWords"
+      ? germanWords
+      : "";
+  }, [dataName]);
+  console.log(data.length, dataName);
   const wordsForCards = useMemo(() => {
     const wordsForLeft = [];
     const wordsForRight = [];
 
     for (let i = 0; i < numbersAmount; i++) {
       const randomNumber = Math.floor(Math.random() * 500);
-      wordsForLeft.push(englishWords[randomNumber]);
-      wordsForRight.push(englishWords[randomNumber]);
+      wordsForLeft.push(data[randomNumber]);
+      wordsForRight.push(data[randomNumber]);
     }
     wordsForRight.sort(() => 0.5 - Math.random());
     console.log(wordsForLeft, wordsForRight);
@@ -105,7 +111,7 @@ function Game(props) {
             thirdPartState={dictionarySsettings.thirdPartState}
             cardsData={wordsForCards}
             setPartOfGame={setPartOfGame}
-            sentences={sentences}
+            // sentences={sentences}
             //   isVisibleFront={isVisibleFront}
             //   isVisibleBack={isVisibleBack}
           />

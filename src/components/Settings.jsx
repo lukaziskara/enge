@@ -56,15 +56,15 @@ export default function Settings(props) {
     dataName,
     setDataName,
   } = props;
-  const [chosenDifficulty, setChosenDifficulty] = useState(1);
+  const [chosenDifficulty, setChosenDifficulty] = useState(5);
   const [firstPartState, setFirstPartState] = useState(
-    gameDifficulties[0].isFirstVisible
+    gameDifficulties[4].isFirstVisible
   );
   const [secondPartState, setSecondPartState] = useState(
-    gameDifficulties[0].isSecondVisible
+    gameDifficulties[4].isSecondVisible
   );
   const [thirdPartState, setThirdPartState] = useState(
-    gameDifficulties[0].isThirdVisible
+    gameDifficulties[4].isThirdVisible
   );
   const [sentencesFirstState, setSentencesFirstState] =
     useState(firstPartState);
