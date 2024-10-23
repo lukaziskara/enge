@@ -1,5 +1,9 @@
 import { useEffect, useState } from "react";
-
+import "./Settings.css";
+const lexicons = [
+  { fileName: "englishWords", lexicon_name: "ქართულ-ინგლისური" },
+  { fileName: "germanWords", lexicon_name: "გერმანული-ინგლისური" },
+];
 const gameDifficulties = [
   {
     isFirstVisible: "first_visible",
@@ -49,6 +53,8 @@ export default function Settings(props) {
     setDictionarySettings,
     numbersAmount,
     setNumbersAmount,
+    dataName,
+    setDataName,
   } = props;
   const [chosenDifficulty, setChosenDifficulty] = useState(1);
   const [firstPartState, setFirstPartState] = useState(
@@ -72,6 +78,24 @@ export default function Settings(props) {
 
   return (
     <>
+      <div className="select_dictionary">
+        <h3>აირჩიე ლექსიკონი</h3>
+        <div className="lexicons">
+          {lexicons.map((item) => (
+            <div
+              className={
+                dataName == item.fileName ? "lexicon-div chosen" : "lexicon-div"
+              }
+              onClick={() => {
+                setDataName(item.fileName);
+                console.log("dadsdw");
+              }}
+            >
+              {item.lexicon_name}
+            </div>
+          ))}
+        </div>
+      </div>
       <div className="select_difficulty">
         <h3 className="diff_header">აირჩიე სირთულე</h3>
         <div className="flex_center difficulties">

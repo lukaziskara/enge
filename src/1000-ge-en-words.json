@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 1,
+    "backText": "wie",
+    "frontText": "as"
+  },
+  {
+    "id": 2,
+    "backText": "ich",
+    "frontText": "I"
+  },
+  {
+    "id": 3,
+    "backText": "seine",
+    "frontText": "his"
+  },
+  {
+    "id": 4,
+    "backText": "dass",
+    "frontText": "that"
+  },
+  {
+    "id": 5,
+    "backText": "er",
+    "frontText": "he"
+  },
+  {
+    "id": 6,
+    "backText": "war",
+    "frontText": "was"
+  },
+  {
+    "id": 7,
+    "backText": "für",
+    "frontText": "for"
+  },
+  {
+    "id": 8,
+    "backText": "auf",
+    "frontText": "on"
+  },
+  {
+    "id": 9,
+    "backText": "sind",
+    "frontText": "are"
+  },
+  {
+    "id": 10,
+    "backText": "mit",
+    "frontText": "with"
+  },
+  {
+    "id": 11,
+    "backText": "sie",
+    "frontText": "they"
+  },
+  {
+    "id": 12,
+    "backText": "sein",
+    "frontText": "be"
+  },
+  {
+    "id": 13,
+    "backText": "bei",
+    "frontText": "at"
+  },
+  {
+    "id": 14,
+    "backText": "ein",
+    "frontText": "one"
+  },
+  {
+    "id": 15,
+    "backText": "haben",
+    "frontText": "have"
+  },
+  {
+    "id": 16,
+    "backText": "dies",
+    "frontText": "this"
+  },
+  {
+    "id": 17,
+    "backText": "aus",
+    "frontText": "from"
+  },
+  {
+    "id": 18,
+    "backText": "durch",
+    "frontText": "by"
+  },
+  {
+    "id": 19,
+    "backText": "heiß",
+    "frontText": "hot"
+  },
+  {
+    "id": 20,
+    "backText": "Wort",
+    "frontText": "word"
+  },
+  {
+    "id": 21,
+    "backText": "aber",
+    "frontText": "but"
+  },
+  {
+    "id": 22,
+    "backText": "was",
+    "frontText": "what"
+  },
+  {
+    "id": 23,
+    "backText": "einige",
+    "frontText": "some"
+  },
+  {
+    "id": 24,
+    "backText": "ist",
+    "frontText": "is"
+  },
+  {
+    "id": 25,
+    "backText": "es",
+    "frontText": "it"
+  },
+  {
+    "id": 26,
+    "backText": "Sie",
+    "frontText": "you"
+  },
+  {
+    "id": 27,
+    "backText": "oder",
+    "frontText": "or"
+  },
+  {
+    "id": 28,
+    "backText": "hatte",
+    "frontText": "had"
+  },
+  {
+    "id": 29,
+    "backText": "die",
+    "frontText": "the"
+  },
+  {
+    "id": 30,
+    "backText": "von",
+    "frontText": "of"
+  },
+  {
+    "id": 31,
+    "backText": "zu",
+    "frontText": "to"
+  },
+  {
+    "id": 32,
+    "backText": "und",
+    "frontText": "and"
+  },
+  {
+    "id": 33,
+    "backText": "ein",
+    "frontText": "a"
+  },
+  {
+    "id": 34,
+    "backText": "bei",
+    "frontText": "in"
+  },
+  {
+    "id": 35,
+    "backText": "wir",
+    "frontText": "we"
+  },
+  {
+    "id": 36,
+    "backText": "können",
+    "frontText": "can"
+  },
+  {
+    "id": 37,
+    "backText": "aus",
+    "frontText": "out"
+  },
+  {
+    "id": 38,
+    "backText": "andere",
+    "frontText": "other"
+  },
+  {
+    "id": 39,
+    "backText": "waren",
+    "frontText": "were"
+  },
+  {
+    "id": 40,
+    "backText": "die",
+    "frontText": "which"
+  },
+  {
+    "id": 41,
+    "backText": "tun",
+    "frontText": "do"
+  },
+  {
+    "id": 42,
+    "backText": "ihre",
+    "frontText": "their"
+  },
+  {
+    "id": 43,
+    "backText": "Zeit",
+    "frontText": "time"
+  },
+  {
+    "id": 44,
+    "backText": "wenn",
+    "frontText": "if"
+  },
+  {
+    "id": 45,
+    "backText": "werden",
+    "frontText": "will"
+  },
+  {
+    "id": 46,
+    "backText": "wie",
+    "frontText": "how"
+  },
+  {
+    "id": 47,
+    "backText": "sagte",
+    "frontText": "said"
+  },
+  {
+    "id": 48,
+    "backText": "ein",
+    "frontText": "an"
+  },
+  {
+    "id": 49,
+    "backText": "jeder",
+    "frontText": "each"
+  },
+  {
+    "id": 50,
+    "backText": "sagen",
+    "frontText": "tell"
+  },
+  {
+    "id": 51,
+    "backText": "tut",
+    "frontText": "does"
+  },
+  {
+    "id": 52,
+    "backText": "Satz",
+    "frontText": "set"
+  },
+  {
+    "id": 53,
+    "backText": "drei",
+    "frontText": "three"
+  },
+  {
+    "id": 54,
+    "backText": "wollen",
+    "frontText": "want"
+  },
+  {
+    "id": 55,
+    "backText": "Luft",
+    "frontText": "air"
+  },
+  {
+    "id": 56,
+    "backText": "gut",
+    "frontText": "well"
+  },
+  {
+    "id": 57,
+    "backText": "auch",
+    "frontText": "also"
+  },
+  {
+    "id": 58,
+    "backText": "spielen",
+    "frontText": "play"
+  },
+  {
+    "id": 59,
+    "backText": "klein",
+    "frontText": "small"
+  },
+  {
+    "id": 60,
+    "backText": "Ende",
+    "frontText": "end"
+  },
+  {
+    "id": 61,
+    "backText": "setzen",
+    "frontText": "put"
+  },
+  {
+    "id": 62,
+    "backText": "Zuhause",
+    "frontText": "home"
+  },
+  {
+    "id": 63,
+    "backText": "lesen",
+    "frontText": "read"
+  },
+  {
+    "id": 64,
+    "backText": "seits",
+    "frontText": "hand"
+  },
+  {
+    "id": 65,
+    "backText": "Hafen",
+    "frontText": "port"
+  },
+  {
+    "id": 66,
+    "backText": "groß",
+    "frontText": "large"
+  },
+  {
+    "id": 67,
+    "backText": "buchstabieren",
+    "frontText": "spell"
+  },
+  {
+    "id": 68,
+    "backText": "hinzufügen",
+    "frontText": "add"
+  },
+  {
+    "id": 69,
+    "backText": "auch",
+    "frontText": "even"
+  },
+  {
+    "id": 70,
+    "backText": "Lande",
+    "frontText": "land"
+  },
+  {
+    "id": 71,
+    "backText": "hier",
+    "frontText": "here"
+  },
+  {
+    "id": 72,
+    "backText": "muss",
+    "frontText": "must"
+  },
+  {
+    "id": 73,
+    "backText": "groß",
+    "frontText": "big"
+  },
+  {
+    "id": 74,
+    "backText": "hoch",
+    "frontText": "high"
+  },
+  {
+    "id": 75,
+    "backText": "so",
+    "frontText": "such"
+  },
+  {
+    "id": 76,
+    "backText": "folgen",
+    "frontText": "follow"
+  },
+  {
+    "id": 77,
+    "backText": "Akt",
+    "frontText": "act"
+  },
+  {
+    "id": 78,
+    "backText": "warum",
+    "frontText": "why"
+  },
+  {
+    "id": 79,
+    "backText": "fragen",
+    "frontText": "ask"
+  },
+  {
+    "id": 80,
+    "backText": "Männer",
+    "frontText": "men"
+  },
+  {
+    "id": 81,
+    "backText": "Veränderung",
+    "frontText": "change"
+  },
+  {
+    "id": 82,
+    "backText": "ging",
+    "frontText": "went"
+  },
+  {
+    "id": 83,
+    "backText": "Licht",
+    "frontText": "light"
+  },
+  {
+    "id": 84,
+    "backText": "Art",
+    "frontText": "kind"
+  },
+  {
+    "id": 85,
+    "backText": "aus",
+    "frontText": "off"
+  },
+  {
+    "id": 86,
+    "backText": "müssen",
+    "frontText": "need"
+  },
+  {
+    "id": 87,
+    "backText": "Haus",
+    "frontText": "house"
+  },
+  {
+    "id": 88,
+    "backText": "Bild",
+    "frontText": "picture"
+  },
+  {
+    "id": 89,
+    "backText": "versuchen",
+    "frontText": "try"
+  },
+  {
+    "id": 90,
+    "backText": "uns",
+    "frontText": "us"
+  },
+  {
+    "id": 91,
+    "backText": "wieder",
+    "frontText": "again"
+  },
+  {
+    "id": 92,
+    "backText": "Tier",
+    "frontText": "animal"
+  },
+  {
+    "id": 93,
+    "backText": "Punkt",
+    "frontText": "point"
+  },
+  {
+    "id": 94,
+    "backText": "Mutter",
+    "frontText": "mother"
+  },
+  {
+    "id": 95,
+    "backText": "Welt",
+    "frontText": "world"
+  },
+  {
+    "id": 96,
+    "backText": "in der Nähe von",
+    "frontText": "near"
+  },
+  {
+    "id": 97,
+    "backText": "bauen",
+    "frontText": "build"
+  },
+  {
+    "id": 98,
+    "backText": "selbst",
+    "frontText": "self"
+  },
+  {
+    "id": 99,
+    "backText": "Erde",
+    "frontText": "earth"
+  },
+  {
+    "id": 100,
+    "backText": "Vater",
+    "frontText": "father"
+  },
+  {
+    "id": 101,
+    "backText": "jeder",
+    "frontText": "any"
+  },
+  {
+    "id": 102,
+    "backText": "neu",
+    "frontText": "new"
+  },
+  {
+    "id": 103,
+    "backText": "Arbeit",
+    "frontText": "work"
+  },
+  {
+    "id": 104,
+    "backText": "Teil",
+    "frontText": "part"
+  },
+  {
+    "id": 105,
+    "backText": "nehmen",
+    "frontText": "take"
+  },
+  {
+    "id": 106,
+    "backText": "erhalten",
+    "frontText": "get"
+  },
+  {
+    "id": 107,
+    "backText": "Ort",
+    "frontText": "place"
+  },
+  {
+    "id": 108,
+    "backText": "gemacht",
+    "frontText": "made"
+  },
+  {
+    "id": 109,
+    "backText": "leben",
+    "frontText": "live"
+  },
+  {
+    "id": 110,
+    "backText": "wo",
+    "frontText": "where"
+  },
+  {
+    "id": 111,
+    "backText": "nach",
+    "frontText": "after"
+  },
+  {
+    "id": 112,
+    "backText": "zurück",
+    "frontText": "back"
+  },
+  {
+    "id": 113,
+    "backText": "wenig",
+    "frontText": "little"
+  },
+  {
+    "id": 114,
+    "backText": "nur",
+    "frontText": "only"
+  },
+  {
+    "id": 115,
+    "backText": "Runde",
+    "frontText": "round"
+  },
+  {
+    "id": 116,
+    "backText": "Mann",
+    "frontText": "man"
+  },
+  {
+    "id": 117,
+    "backText": "Jahr",
+    "frontText": "year"
+  },
+  {
+    "id": 118,
+    "backText": "kam",
+    "frontText": "came"
+  },
+  {
+    "id": 119,
+    "backText": "zeigen",
+    "frontText": "show"
+  },
+  {
+    "id": 120,
+    "backText": "jeder",
+    "frontText": "every"
+  },
+  {
+    "id": 121,
+    "backText": "gut",
+    "frontText": "good"
+  },
+  {
+    "id": 122,
+    "backText": "mir",
+    "frontText": "me"
+  },
+  {
+    "id": 123,
+    "backText": "geben",
+    "frontText": "give"
+  },
+  {
+    "id": 124,
+    "backText": "unsere",
+    "frontText": "our"
+  },
+  {
+    "id": 125,
+    "backText": "unter",
+    "frontText": "under"
+  },
+  {
+    "id": 126,
+    "backText": "Name",
+    "frontText": "name"
+  },
+  {
+    "id": 127,
+    "backText": "sehr",
+    "frontText": "very"
+  },
+  {
+    "id": 128,
+    "backText": "durch",
+    "frontText": "through"
+  },
+  {
+    "id": 129,
+    "backText": "nur",
+    "frontText": "just"
+  },
+  {
+    "id": 130,
+    "backText": "Formular",
+    "frontText": "form"
+  },
+  {
+    "id": 131,
+    "backText": "Satz",
+    "frontText": "sentence"
+  },
+  {
+    "id": 132,
+    "backText": "groß",
+    "frontText": "great"
+  },
+  {
+    "id": 133,
+    "backText": "denken",
+    "frontText": "think"
+  },
+  {
+    "id": 134,
+    "backText": "sagen",
+    "frontText": "say"
+  },
+  {
+    "id": 135,
+    "backText": "Hilfe",
+    "frontText": "help"
+  },
+  {
+    "id": 136,
+    "backText": "niedrig",
+    "frontText": "low"
+  },
+  {
+    "id": 137,
+    "backText": "Linie",
+    "frontText": "line"
+  },
+  {
+    "id": 138,
+    "backText": "abweichen",
+    "frontText": "differ"
+  },
+  {
+    "id": 139,
+    "backText": "wiederum",
+    "frontText": "turn"
+  },
+  {
+    "id": 140,
+    "backText": "Ursache",
+    "frontText": "cause"
+  },
+  {
+    "id": 141,
+    "backText": "viel",
+    "frontText": "much"
+  },
+  {
+    "id": 142,
+    "backText": "bedeuten",
+    "frontText": "mean"
+  },
+  {
+    "id": 143,
+    "backText": "vor",
+    "frontText": "before"
+  },
+  {
+    "id": 144,
+    "backText": "Umzug",
+    "frontText": "move"
+  },
+  {
+    "id": 145,
+    "backText": "Recht",
+    "frontText": "right"
+  },
+  {
+    "id": 146,
+    "backText": "Junge",
+    "frontText": "boy"
+  },
+  {
+    "id": 147,
+    "backText": "alt",
+    "frontText": "old"
+  },
+  {
+    "id": 148,
+    "backText": "zu",
+    "frontText": "too"
+  },
+  {
+    "id": 149,
+    "backText": "gleich",
+    "frontText": "same"
+  },
+  {
+    "id": 150,
+    "backText": "sie",
+    "frontText": "she"
+  },
+  {
+    "id": 151,
+    "backText": "alle",
+    "frontText": "all"
+  },
+  {
+    "id": 152,
+    "backText": "da",
+    "frontText": "there"
+  },
+  {
+    "id": 153,
+    "backText": "wenn",
+    "frontText": "when"
+  },
+  {
+    "id": 154,
+    "backText": "nach oben",
+    "frontText": "up"
+  },
+  {
+    "id": 155,
+    "backText": "Verwendung",
+    "frontText": "use"
+  },
+  {
+    "id": 156,
+    "backText": "Ihre",
+    "frontText": "your"
+  },
+  {
+    "id": 157,
+    "backText": "Weg",
+    "frontText": "way"
+  },
+  {
+    "id": 158,
+    "backText": "über",
+    "frontText": "about"
+  },
+  {
+    "id": 159,
+    "backText": "viele",
+    "frontText": "many"
+  },
+  {
+    "id": 160,
+    "backText": "dann",
+    "frontText": "then"
+  },
+  {
+    "id": 161,
+    "backText": "sie",
+    "frontText": "them"
+  },
+  {
+    "id": 162,
+    "backText": "schreiben",
+    "frontText": "write"
+  },
+  {
+    "id": 163,
+    "backText": "würde",
+    "frontText": "would"
+  },
+  {
+    "id": 164,
+    "backText": "wie",
+    "frontText": "like"
+  },
+  {
+    "id": 165,
+    "backText": "so",
+    "frontText": "so"
+  },
+  {
+    "id": 166,
+    "backText": "diese",
+    "frontText": "these"
+  },
+  {
+    "id": 167,
+    "backText": "sie",
+    "frontText": "her"
+  },
+  {
+    "id": 168,
+    "backText": "lange",
+    "frontText": "long"
+  },
+  {
+    "id": 169,
+    "backText": "machen",
+    "frontText": "make"
+  },
+  {
+    "id": 170,
+    "backText": "Sache",
+    "frontText": "thing"
+  },
+  {
+    "id": 171,
+    "backText": "sehen",
+    "frontText": "see"
+  },
+  {
+    "id": 172,
+    "backText": "ihm",
+    "frontText": "him"
+  },
+  {
+    "id": 173,
+    "backText": "zwei",
+    "frontText": "two"
+  },
+  {
+    "id": 174,
+    "backText": "hat",
+    "frontText": "has"
+  },
+  {
+    "id": 175,
+    "backText": "suchen",
+    "frontText": "look"
+  },
+  {
+    "id": 176,
+    "backText": "mehr",
+    "frontText": "more"
+  },
+  {
+    "id": 177,
+    "backText": "Tag",
+    "frontText": "day"
+  },
+  {
+    "id": 178,
+    "backText": "könnte",
+    "frontText": "could"
+  },
+  {
+    "id": 179,
+    "backText": "gehen",
+    "frontText": "go"
+  },
+  {
+    "id": 180,
+    "backText": "kommen",
+    "frontText": "come"
+  },
+  {
+    "id": 181,
+    "backText": "tat",
+    "frontText": "did"
+  },
+  {
+    "id": 182,
+    "backText": "Anzahl",
+    "frontText": "number"
+  },
+  {
+    "id": 183,
+    "backText": "klingen",
+    "frontText": "sound"
+  },
+  {
+    "id": 184,
+    "backText": "nicht",
+    "frontText": "no"
+  },
+  {
+    "id": 185,
+    "backText": "am meisten",
+    "frontText": "most"
+  },
+  {
+    "id": 186,
+    "backText": "Menschen",
+    "frontText": "people"
+  },
+  {
+    "id": 187,
+    "backText": "meine",
+    "frontText": "my"
+  },
+  {
+    "id": 188,
+    "backText": "über",
+    "frontText": "over"
+  },
+  {
+    "id": 189,
+    "backText": "wissen",
+    "frontText": "know"
+  },
+  {
+    "id": 190,
+    "backText": "Wasser",
+    "frontText": "water"
+  },
+  {
+    "id": 191,
+    "backText": "als",
+    "frontText": "than"
+  },
+  {
+    "id": 192,
+    "backText": "Anruf",
+    "frontText": "call"
+  },
+  {
+    "id": 193,
+    "backText": "erste",
+    "frontText": "first"
+  },
+  {
+    "id": 194,
+    "backText": "die",
+    "frontText": "who"
+  },
+  {
+    "id": 195,
+    "backText": "können",
+    "frontText": "may"
+  },
+  {
+    "id": 196,
+    "backText": "nach unten",
+    "frontText": "down"
+  },
+  {
+    "id": 197,
+    "backText": "Seite",
+    "frontText": "side"
+  },
+  {
+    "id": 198,
+    "backText": "gewesen",
+    "frontText": "been"
+  },
+  {
+    "id": 199,
+    "backText": "jetzt",
+    "frontText": "now"
+  },
+  {
+    "id": 200,
+    "backText": "finden",
+    "frontText": "find"
+  },
+  {
+    "id": 201,
+    "backText": "Kopf",
+    "frontText": "head"
+  },
+  {
+    "id": 202,
+    "backText": "stehen",
+    "frontText": "stand"
+  },
+  {
+    "id": 203,
+    "backText": "besitzen",
+    "frontText": "own"
+  },
+  {
+    "id": 204,
+    "backText": "Seite",
+    "frontText": "page"
+  },
+  {
+    "id": 205,
+    "backText": "sollte",
+    "frontText": "should"
+  },
+  {
+    "id": 206,
+    "backText": "Land",
+    "frontText": "country"
+  },
+  {
+    "id": 207,
+    "backText": "gefunden",
+    "frontText": "found"
+  },
+  {
+    "id": 208,
+    "backText": "Antwort",
+    "frontText": "answer"
+  },
+  {
+    "id": 209,
+    "backText": "Schule",
+    "frontText": "school"
+  },
+  {
+    "id": 210,
+    "backText": "wachsen",
+    "frontText": "grow"
+  },
+  {
+    "id": 211,
+    "backText": "Studie",
+    "frontText": "study"
+  },
+  {
+    "id": 212,
+    "backText": "noch",
+    "frontText": "still"
+  },
+  {
+    "id": 213,
+    "backText": "lernen",
+    "frontText": "learn"
+  },
+  {
+    "id": 214,
+    "backText": "Anlage",
+    "frontText": "plant"
+  },
+  {
+    "id": 215,
+    "backText": "Abdeckung",
+    "frontText": "cover"
+  },
+  {
+    "id": 216,
+    "backText": "Lebensmittel",
+    "frontText": "food"
+  },
+  {
+    "id": 217,
+    "backText": "Sonne",
+    "frontText": "sun"
+  },
+  {
+    "id": 218,
+    "backText": "vier",
+    "frontText": "four"
+  },
+  {
+    "id": 219,
+    "backText": "zwischen",
+    "frontText": "between"
+  },
+  {
+    "id": 220,
+    "backText": "Zustand",
+    "frontText": "state"
+  },
+  {
+    "id": 221,
+    "backText": "halten",
+    "frontText": "keep"
+  },
+  {
+    "id": 222,
+    "backText": "Auge",
+    "frontText": "eye"
+  },
+  {
+    "id": 223,
+    "backText": "nie",
+    "frontText": "never"
+  },
+  {
+    "id": 224,
+    "backText": "letzte",
+    "frontText": "last"
+  },
+  {
+    "id": 225,
+    "backText": "lassen",
+    "frontText": "let"
+  },
+  {
+    "id": 226,
+    "backText": "Gedanken",
+    "frontText": "thought"
+  },
+  {
+    "id": 227,
+    "backText": "Stadt",
+    "frontText": "city"
+  },
+  {
+    "id": 228,
+    "backText": "Baum",
+    "frontText": "tree"
+  },
+  {
+    "id": 229,
+    "backText": "überqueren",
+    "frontText": "cross"
+  },
+  {
+    "id": 230,
+    "backText": "Bauernhof",
+    "frontText": "farm"
+  },
+  {
+    "id": 231,
+    "backText": "schwer",
+    "frontText": "hard"
+  },
+  {
+    "id": 232,
+    "backText": "Beginn",
+    "frontText": "start"
+  },
+  {
+    "id": 233,
+    "backText": "Macht",
+    "frontText": "might"
+  },
+  {
+    "id": 234,
+    "backText": "Geschichte",
+    "frontText": "story"
+  },
+  {
+    "id": 235,
+    "backText": "Säge",
+    "frontText": "saw"
+  },
+  {
+    "id": 236,
+    "backText": "weit",
+    "frontText": "far"
+  },
+  {
+    "id": 237,
+    "backText": "Meer",
+    "frontText": "sea"
+  },
+  {
+    "id": 238,
+    "backText": "ziehen",
+    "frontText": "draw"
+  },
+  {
+    "id": 239,
+    "backText": "links",
+    "frontText": "left"
+  },
+  {
+    "id": 240,
+    "backText": "spät",
+    "frontText": "late"
+  },
+  {
+    "id": 241,
+    "backText": "laufen",
+    "frontText": "run"
+  },
+  {
+    "id": 242,
+    "backText": "unterlassen Sie",
+    "frontText": "don’t"
+  },
+  {
+    "id": 243,
+    "backText": "während",
+    "frontText": "while"
+  },
+  {
+    "id": 244,
+    "backText": "Presse",
+    "frontText": "press"
+  },
+  {
+    "id": 245,
+    "backText": "Schließen",
+    "frontText": "close"
+  },
+  {
+    "id": 246,
+    "backText": "Nacht",
+    "frontText": "night"
+  },
+  {
+    "id": 247,
+    "backText": "realen",
+    "frontText": "real"
+  },
+  {
+    "id": 248,
+    "backText": "Leben",
+    "frontText": "life"
+  },
+  {
+    "id": 249,
+    "backText": "wenige",
+    "frontText": "few"
+  },
+  {
+    "id": 250,
+    "backText": "Norden",
+    "frontText": "north"
+  },
+  {
+    "id": 251,
+    "backText": "Buch",
+    "frontText": "book"
+  },
+  {
+    "id": 252,
+    "backText": "tragen",
+    "frontText": "carry"
+  },
+  {
+    "id": 253,
+    "backText": "nahm",
+    "frontText": "took"
+  },
+  {
+    "id": 254,
+    "backText": "Wissenschaft",
+    "frontText": "science"
+  },
+  {
+    "id": 255,
+    "backText": "essen",
+    "frontText": "eat"
+  },
+  {
+    "id": 256,
+    "backText": "Zimmer",
+    "frontText": "room"
+  },
+  {
+    "id": 257,
+    "backText": "Freund",
+    "frontText": "friend"
+  },
+  {
+    "id": 258,
+    "backText": "begann",
+    "frontText": "began"
+  },
+  {
+    "id": 259,
+    "backText": "Idee",
+    "frontText": "idea"
+  },
+  {
+    "id": 260,
+    "backText": "Fisch",
+    "frontText": "fish"
+  },
+  {
+    "id": 261,
+    "backText": "berg",
+    "frontText": "mountain"
+  },
+  {
+    "id": 262,
+    "backText": "Stopp",
+    "frontText": "stop"
+  },
+  {
+    "id": 263,
+    "backText": "einmal",
+    "frontText": "once"
+  },
+  {
+    "id": 264,
+    "backText": "Basis",
+    "frontText": "base"
+  },
+  {
+    "id": 265,
+    "backText": "hören",
+    "frontText": "hear"
+  },
+  {
+    "id": 266,
+    "backText": "Pferd",
+    "frontText": "horse"
+  },
+  {
+    "id": 267,
+    "backText": "Schnitt",
+    "frontText": "cut"
+  },
+  {
+    "id": 268,
+    "backText": "sicher",
+    "frontText": "sure"
+  },
+  {
+    "id": 269,
+    "backText": "beobachten",
+    "frontText": "watch"
+  },
+  {
+    "id": 270,
+    "backText": "Farbe",
+    "frontText": "color"
+  },
+  {
+    "id": 271,
+    "backText": "Gesicht",
+    "frontText": "face"
+  },
+  {
+    "id": 272,
+    "backText": "Holz",
+    "frontText": "wood"
+  },
+  {
+    "id": 273,
+    "backText": "Haupt-",
+    "frontText": "main"
+  },
+  {
+    "id": 274,
+    "backText": "geöffnet",
+    "frontText": "open"
+  },
+  {
+    "id": 275,
+    "backText": "scheinen",
+    "frontText": "seem"
+  },
+  {
+    "id": 276,
+    "backText": "zusammen",
+    "frontText": "together"
+  },
+  {
+    "id": 277,
+    "backText": "nächste",
+    "frontText": "next"
+  },
+  {
+    "id": 278,
+    "backText": "weiß",
+    "frontText": "white"
+  },
+  {
+    "id": 279,
+    "backText": "Kinder",
+    "frontText": "children"
+  },
+  {
+    "id": 280,
+    "backText": "Start",
+    "frontText": "begin"
+  },
+  {
+    "id": 281,
+    "backText": "bekam",
+    "frontText": "got"
+  },
+  {
+    "id": 282,
+    "backText": "gehen",
+    "frontText": "walk"
+  },
+  {
+    "id": 283,
+    "backText": "Beispiel",
+    "frontText": "example"
+  },
+  {
+    "id": 284,
+    "backText": "erleichtern",
+    "frontText": "ease"
+  },
+  {
+    "id": 285,
+    "backText": "Papier",
+    "frontText": "paper"
+  },
+  {
+    "id": 286,
+    "backText": "Gruppe",
+    "frontText": "group"
+  },
+  {
+    "id": 287,
+    "backText": "immer",
+    "frontText": "always"
+  },
+  {
+    "id": 288,
+    "backText": "Musik",
+    "frontText": "music"
+  },
+  {
+    "id": 289,
+    "backText": "diejenigen",
+    "frontText": "those"
+  },
+  {
+    "id": 290,
+    "backText": "beide",
+    "frontText": "both"
+  },
+  {
+    "id": 291,
+    "backText": "Marke",
+    "frontText": "mark"
+  },
+  {
+    "id": 292,
+    "backText": "oft",
+    "frontText": "often"
+  },
+  {
+    "id": 293,
+    "backText": "Schreiben",
+    "frontText": "letter"
+  },
+  {
+    "id": 294,
+    "backText": "bis",
+    "frontText": "until"
+  },
+  {
+    "id": 295,
+    "backText": "Meile",
+    "frontText": "mile"
+  },
+  {
+    "id": 296,
+    "backText": "Fluss",
+    "frontText": "river"
+  },
+  {
+    "id": 297,
+    "backText": "Auto",
+    "frontText": "car"
+  },
+  {
+    "id": 298,
+    "backText": "Füße",
+    "frontText": "feet"
+  },
+  {
+    "id": 299,
+    "backText": "Pflege",
+    "frontText": "care"
+  },
+  {
+    "id": 300,
+    "backText": "zweite",
+    "frontText": "second"
+  },
+  {
+    "id": 301,
+    "backText": "genug",
+    "frontText": "enough"
+  },
+  {
+    "id": 302,
+    "backText": "Ebene",
+    "frontText": "plain"
+  },
+  {
+    "id": 303,
+    "backText": "Mädchen",
+    "frontText": "girl"
+  },
+  {
+    "id": 304,
+    "backText": "üblich",
+    "frontText": "usual"
+  },
+  {
+    "id": 305,
+    "backText": "jung",
+    "frontText": "young"
+  },
+  {
+    "id": 306,
+    "backText": "bereit",
+    "frontText": "ready"
+  },
+  {
+    "id": 307,
+    "backText": "oben",
+    "frontText": "above"
+  },
+  {
+    "id": 308,
+    "backText": "je",
+    "frontText": "ever"
+  },
+  {
+    "id": 309,
+    "backText": "rot",
+    "frontText": "red"
+  },
+  {
+    "id": 310,
+    "backText": "Liste",
+    "frontText": "list"
+  },
+  {
+    "id": 311,
+    "backText": "obwohl",
+    "frontText": "though"
+  },
+  {
+    "id": 312,
+    "backText": "fühlen",
+    "frontText": "feel"
+  },
+  {
+    "id": 313,
+    "backText": "Vortrag",
+    "frontText": "talk"
+  },
+  {
+    "id": 314,
+    "backText": "Vogel",
+    "frontText": "bird"
+  },
+  {
+    "id": 315,
+    "backText": "bald",
+    "frontText": "soon"
+  },
+  {
+    "id": 316,
+    "backText": "Körper",
+    "frontText": "body"
+  },
+  {
+    "id": 317,
+    "backText": "Hund",
+    "frontText": "dog"
+  },
+  {
+    "id": 318,
+    "backText": "Familie",
+    "frontText": "family"
+  },
+  {
+    "id": 319,
+    "backText": "direkt",
+    "frontText": "direct"
+  },
+  {
+    "id": 320,
+    "backText": "Pose",
+    "frontText": "pose"
+  },
+  {
+    "id": 321,
+    "backText": "verlassen",
+    "frontText": "leave"
+  },
+  {
+    "id": 322,
+    "backText": "Lied",
+    "frontText": "song"
+  },
+  {
+    "id": 323,
+    "backText": "messen",
+    "frontText": "measure"
+  },
+  {
+    "id": 324,
+    "backText": "Tür",
+    "frontText": "door"
+  },
+  {
+    "id": 325,
+    "backText": "Produkt",
+    "frontText": "product"
+  },
+  {
+    "id": 326,
+    "backText": "schwarz",
+    "frontText": "black"
+  },
+  {
+    "id": 327,
+    "backText": "kurz",
+    "frontText": "short"
+  },
+  {
+    "id": 328,
+    "backText": "Zahl",
+    "frontText": "numeral"
+  },
+  {
+    "id": 329,
+    "backText": "Klasse",
+    "frontText": "class"
+  },
+  {
+    "id": 330,
+    "backText": "Wind",
+    "frontText": "wind"
+  },
+  {
+    "id": 331,
+    "backText": "Frage",
+    "frontText": "question"
+  },
+  {
+    "id": 332,
+    "backText": "passieren",
+    "frontText": "happen"
+  },
+  {
+    "id": 333,
+    "backText": "vollständig",
+    "frontText": "complete"
+  },
+  {
+    "id": 334,
+    "backText": "Schiff",
+    "frontText": "ship"
+  },
+  {
+    "id": 335,
+    "backText": "Bereich",
+    "frontText": "area"
+  },
+  {
+    "id": 336,
+    "backText": "Hälfte",
+    "frontText": "half"
+  },
+  {
+    "id": 337,
+    "backText": "Stein",
+    "frontText": "rock"
+  },
+  {
+    "id": 338,
+    "backText": "bestellen",
+    "frontText": "order"
+  },
+  {
+    "id": 339,
+    "backText": "Feuer",
+    "frontText": "fire"
+  },
+  {
+    "id": 340,
+    "backText": "Süden",
+    "frontText": "south"
+  },
+  {
+    "id": 341,
+    "backText": "Problem",
+    "frontText": "problem"
+  },
+  {
+    "id": 342,
+    "backText": "Stück",
+    "frontText": "piece"
+  },
+  {
+    "id": 343,
+    "backText": "sagte",
+    "frontText": "told"
+  },
+  {
+    "id": 344,
+    "backText": "wusste",
+    "frontText": "knew"
+  },
+  {
+    "id": 345,
+    "backText": "passieren",
+    "frontText": "pass"
+  },
+  {
+    "id": 346,
+    "backText": "seit",
+    "frontText": "since"
+  },
+  {
+    "id": 347,
+    "backText": "obere",
+    "frontText": "top"
+  },
+  {
+    "id": 348,
+    "backText": "ganze",
+    "frontText": "whole"
+  },
+  {
+    "id": 349,
+    "backText": "König",
+    "frontText": "king"
+  },
+  {
+    "id": 350,
+    "backText": "Straße",
+    "frontText": "street"
+  },
+  {
+    "id": 351,
+    "backText": "Zoll",
+    "frontText": "inch"
+  },
+  {
+    "id": 352,
+    "backText": "multiplizieren",
+    "frontText": "multiply"
+  },
+  {
+    "id": 353,
+    "backText": "nichts",
+    "frontText": "nothing"
+  },
+  {
+    "id": 354,
+    "backText": "Kurs",
+    "frontText": "course"
+  },
+  {
+    "id": 355,
+    "backText": "bleiben",
+    "frontText": "stay"
+  },
+  {
+    "id": 356,
+    "backText": "Rad",
+    "frontText": "wheel"
+  },
+  {
+    "id": 357,
+    "backText": "voll",
+    "frontText": "full"
+  },
+  {
+    "id": 358,
+    "backText": "Kraft",
+    "frontText": "force"
+  },
+  {
+    "id": 359,
+    "backText": "blau",
+    "frontText": "blue"
+  },
+  {
+    "id": 360,
+    "backText": "Objekt",
+    "frontText": "object"
+  },
+  {
+    "id": 361,
+    "backText": "entscheiden",
+    "frontText": "decide"
+  },
+  {
+    "id": 362,
+    "backText": "Oberfläche",
+    "frontText": "surface"
+  },
+  {
+    "id": 363,
+    "backText": "tief",
+    "frontText": "deep"
+  },
+  {
+    "id": 364,
+    "backText": "Mond",
+    "frontText": "moon"
+  },
+  {
+    "id": 365,
+    "backText": "Insel",
+    "frontText": "island"
+  },
+  {
+    "id": 366,
+    "backText": "Fuß",
+    "frontText": "foot"
+  },
+  {
+    "id": 367,
+    "backText": "System",
+    "frontText": "system"
+  },
+  {
+    "id": 368,
+    "backText": "beschäftigt",
+    "frontText": "busy"
+  },
+  {
+    "id": 369,
+    "backText": "Prüfung",
+    "frontText": "test"
+  },
+  {
+    "id": 370,
+    "backText": "Rekord",
+    "frontText": "record"
+  },
+  {
+    "id": 371,
+    "backText": "Boot",
+    "frontText": "boat"
+  },
+  {
+    "id": 372,
+    "backText": "gemeinsam",
+    "frontText": "common"
+  },
+  {
+    "id": 373,
+    "backText": "goldenen",
+    "frontText": "gold"
+  },
+  {
+    "id": 374,
+    "backText": "möglich",
+    "frontText": "possible"
+  },
+  {
+    "id": 375,
+    "backText": "Flugzeug",
+    "frontText": "plane"
+  },
+  {
+    "id": 376,
+    "backText": "statt",
+    "frontText": "stead"
+  },
+  {
+    "id": 377,
+    "backText": "trocken",
+    "frontText": "dry"
+  },
+  {
+    "id": 378,
+    "backText": "Wunder",
+    "frontText": "wonder"
+  },
+  {
+    "id": 379,
+    "backText": "Lachen",
+    "frontText": "laugh"
+  },
+  {
+    "id": 380,
+    "backText": "tausend",
+    "frontText": "thousand"
+  },
+  {
+    "id": 381,
+    "backText": "vor",
+    "frontText": "ago"
+  },
+  {
+    "id": 382,
+    "backText": "lief",
+    "frontText": "ran"
+  },
+  {
+    "id": 383,
+    "backText": "überprüfen",
+    "frontText": "check"
+  },
+  {
+    "id": 384,
+    "backText": "Spiel",
+    "frontText": "game"
+  },
+  {
+    "id": 385,
+    "backText": "Form",
+    "frontText": "shape"
+  },
+  {
+    "id": 386,
+    "backText": "gleichsetzen",
+    "frontText": "equate"
+  },
+  {
+    "id": 387,
+    "backText": "heiß",
+    "frontText": "hot"
+  },
+  {
+    "id": 388,
+    "backText": "Fehl",
+    "frontText": "miss"
+  },
+  {
+    "id": 389,
+    "backText": "gebracht",
+    "frontText": "brought"
+  },
+  {
+    "id": 390,
+    "backText": "Wärme",
+    "frontText": "heat"
+  },
+  {
+    "id": 391,
+    "backText": "Schnee",
+    "frontText": "snow"
+  },
+  {
+    "id": 392,
+    "backText": "Reifen",
+    "frontText": "tire"
+  },
+  {
+    "id": 393,
+    "backText": "bringen",
+    "frontText": "bring"
+  },
+  {
+    "id": 394,
+    "backText": "ja",
+    "frontText": "yes"
+  },
+  {
+    "id": 395,
+    "backText": "entfernt",
+    "frontText": "distant"
+  },
+  {
+    "id": 396,
+    "backText": "füllen",
+    "frontText": "fill"
+  },
+  {
+    "id": 397,
+    "backText": "Osten",
+    "frontText": "east"
+  },
+  {
+    "id": 398,
+    "backText": "malen",
+    "frontText": "paint"
+  },
+  {
+    "id": 399,
+    "backText": "Sprache",
+    "frontText": "language"
+  },
+  {
+    "id": 400,
+    "backText": "unter",
+    "frontText": "among"
+  },
+  {
+    "id": 401,
+    "backText": "Einheit",
+    "frontText": "unit"
+  },
+  {
+    "id": 402,
+    "backText": "Macht",
+    "frontText": "power"
+  },
+  {
+    "id": 403,
+    "backText": "Stadt",
+    "frontText": "town"
+  },
+  {
+    "id": 404,
+    "backText": "fein",
+    "frontText": "fine"
+  },
+  {
+    "id": 405,
+    "backText": "sicher",
+    "frontText": "certain"
+  },
+  {
+    "id": 406,
+    "backText": "fliegen",
+    "frontText": "fly"
+  },
+  {
+    "id": 407,
+    "backText": "fallen",
+    "frontText": "fall"
+  },
+  {
+    "id": 408,
+    "backText": "führen",
+    "frontText": "lead"
+  },
+  {
+    "id": 409,
+    "backText": "Schrei",
+    "frontText": "cry"
+  },
+  {
+    "id": 410,
+    "backText": "dunkel",
+    "frontText": "dark"
+  },
+  {
+    "id": 411,
+    "backText": "Maschine",
+    "frontText": "machine"
+  },
+  {
+    "id": 412,
+    "backText": "note",
+    "frontText": "note"
+  },
+  {
+    "id": 413,
+    "backText": "warten",
+    "frontText": "wait"
+  },
+  {
+    "id": 414,
+    "backText": "Plan",
+    "frontText": "plan"
+  },
+  {
+    "id": 415,
+    "backText": "Abbildung",
+    "frontText": "figure"
+  },
+  {
+    "id": 416,
+    "backText": "Stern",
+    "frontText": "star"
+  },
+  {
+    "id": 417,
+    "backText": "Kasten",
+    "frontText": "box"
+  },
+  {
+    "id": 418,
+    "backText": "Nomen",
+    "frontText": "noun"
+  },
+  {
+    "id": 419,
+    "backText": "Feld",
+    "frontText": "field"
+  },
+  {
+    "id": 420,
+    "backText": "Rest",
+    "frontText": "rest"
+  },
+  {
+    "id": 421,
+    "backText": "richtig",
+    "frontText": "correct"
+  },
+  {
+    "id": 422,
+    "backText": "fähig",
+    "frontText": "able"
+  },
+  {
+    "id": 423,
+    "backText": "Pfund",
+    "frontText": "pound"
+  },
+  {
+    "id": 424,
+    "backText": "getan",
+    "frontText": "done"
+  },
+  {
+    "id": 425,
+    "backText": "Schönheit",
+    "frontText": "beauty"
+  },
+  {
+    "id": 426,
+    "backText": "Antriebs",
+    "frontText": "drive"
+  },
+  {
+    "id": 427,
+    "backText": "stand",
+    "frontText": "stood"
+  },
+  {
+    "id": 428,
+    "backText": "enthalten",
+    "frontText": "contain"
+  },
+  {
+    "id": 429,
+    "backText": "Front",
+    "frontText": "front"
+  },
+  {
+    "id": 430,
+    "backText": "lehren",
+    "frontText": "teach"
+  },
+  {
+    "id": 431,
+    "backText": "Woche",
+    "frontText": "week"
+  },
+  {
+    "id": 432,
+    "backText": "Finale",
+    "frontText": "final"
+  },
+  {
+    "id": 433,
+    "backText": "gab",
+    "frontText": "gave"
+  },
+  {
+    "id": 434,
+    "backText": "grün",
+    "frontText": "green"
+  },
+  {
+    "id": 435,
+    "backText": "oh",
+    "frontText": "oh"
+  },
+  {
+    "id": 436,
+    "backText": "schnell",
+    "frontText": "quick"
+  },
+  {
+    "id": 437,
+    "backText": "entwickeln",
+    "frontText": "develop"
+  },
+  {
+    "id": 438,
+    "backText": "Ozean",
+    "frontText": "ocean"
+  },
+  {
+    "id": 439,
+    "backText": "warme",
+    "frontText": "warm"
+  },
+  {
+    "id": 440,
+    "backText": "kostenlos",
+    "frontText": "free"
+  },
+  {
+    "id": 441,
+    "backText": "Minute",
+    "frontText": "minute"
+  },
+  {
+    "id": 442,
+    "backText": "stark",
+    "frontText": "strong"
+  },
+  {
+    "id": 443,
+    "backText": "besondere",
+    "frontText": "special"
+  },
+  {
+    "id": 444,
+    "backText": "Geist",
+    "frontText": "mind"
+  },
+  {
+    "id": 445,
+    "backText": "hinter",
+    "frontText": "behind"
+  },
+  {
+    "id": 446,
+    "backText": "klar",
+    "frontText": "clear"
+  },
+  {
+    "id": 447,
+    "backText": "Schwanz",
+    "frontText": "tail"
+  },
+  {
+    "id": 448,
+    "backText": "produzieren",
+    "frontText": "produce"
+  },
+  {
+    "id": 449,
+    "backText": "Tatsache",
+    "frontText": "fact"
+  },
+  {
+    "id": 450,
+    "backText": "Raum",
+    "frontText": "space"
+  },
+  {
+    "id": 451,
+    "backText": "gehört",
+    "frontText": "heard"
+  },
+  {
+    "id": 452,
+    "backText": "beste",
+    "frontText": "best"
+  },
+  {
+    "id": 453,
+    "backText": "Stunde",
+    "frontText": "hour"
+  },
+  {
+    "id": 454,
+    "backText": "besser",
+    "frontText": "better"
+  },
+  {
+    "id": 455,
+    "backText": "wahr",
+    "frontText": true
+  },
+  {
+    "id": 456,
+    "backText": "während",
+    "frontText": "during"
+  },
+  {
+    "id": 457,
+    "backText": "hundert",
+    "frontText": "hundred"
+  },
+  {
+    "id": 458,
+    "backText": "fünf",
+    "frontText": "five"
+  },
+  {
+    "id": 459,
+    "backText": "merken",
+    "frontText": "remember"
+  },
+  {
+    "id": 460,
+    "backText": "Schritt",
+    "frontText": "step"
+  },
+  {
+    "id": 461,
+    "backText": "früh",
+    "frontText": "early"
+  },
+  {
+    "id": 462,
+    "backText": "halten",
+    "frontText": "hold"
+  },
+  {
+    "id": 463,
+    "backText": "Westen",
+    "frontText": "west"
+  },
+  {
+    "id": 464,
+    "backText": "Boden",
+    "frontText": "ground"
+  },
+  {
+    "id": 465,
+    "backText": "Interesse",
+    "frontText": "interest"
+  },
+  {
+    "id": 466,
+    "backText": "erreichen",
+    "frontText": "reach"
+  },
+  {
+    "id": 467,
+    "backText": "schnell",
+    "frontText": "fast"
+  },
+  {
+    "id": 468,
+    "backText": "Verbum",
+    "frontText": "verb"
+  },
+  {
+    "id": 469,
+    "backText": "singen",
+    "frontText": "sing"
+  },
+  {
+    "id": 470,
+    "backText": "hören",
+    "frontText": "listen"
+  },
+  {
+    "id": 471,
+    "backText": "sechs",
+    "frontText": "six"
+  },
+  {
+    "id": 472,
+    "backText": "Tabelle",
+    "frontText": "table"
+  },
+  {
+    "id": 473,
+    "backText": "Reise",
+    "frontText": "travel"
+  },
+  {
+    "id": 474,
+    "backText": "weniger",
+    "frontText": "less"
+  },
+  {
+    "id": 475,
+    "backText": "Morgen",
+    "frontText": "morning"
+  },
+  {
+    "id": 476,
+    "backText": "zehn",
+    "frontText": "ten"
+  },
+  {
+    "id": 477,
+    "backText": "einfach",
+    "frontText": "simple"
+  },
+  {
+    "id": 478,
+    "backText": "mehrere",
+    "frontText": "several"
+  },
+  {
+    "id": 479,
+    "backText": "Vokal",
+    "frontText": "vowel"
+  },
+  {
+    "id": 480,
+    "backText": "auf",
+    "frontText": "toward"
+  },
+  {
+    "id": 481,
+    "backText": "Krieg",
+    "frontText": "war"
+  },
+  {
+    "id": 482,
+    "backText": "legen",
+    "frontText": "lay"
+  },
+  {
+    "id": 483,
+    "backText": "gegen",
+    "frontText": "against"
+  },
+  {
+    "id": 484,
+    "backText": "Muster",
+    "frontText": "pattern"
+  },
+  {
+    "id": 485,
+    "backText": "schleppend",
+    "frontText": "slow"
+  },
+  {
+    "id": 486,
+    "backText": "Zentrum",
+    "frontText": "center"
+  },
+  {
+    "id": 487,
+    "backText": "Liebe",
+    "frontText": "love"
+  },
+  {
+    "id": 488,
+    "backText": "Person",
+    "frontText": "person"
+  },
+  {
+    "id": 489,
+    "backText": "Geld",
+    "frontText": "money"
+  },
+  {
+    "id": 490,
+    "backText": "dienen",
+    "frontText": "serve"
+  },
+  {
+    "id": 491,
+    "backText": "erscheinen",
+    "frontText": "appear"
+  },
+  {
+    "id": 492,
+    "backText": "Straße",
+    "frontText": "road"
+  },
+  {
+    "id": 493,
+    "backText": "Karte",
+    "frontText": "map"
+  },
+  {
+    "id": 494,
+    "backText": "regen",
+    "frontText": "rain"
+  },
+  {
+    "id": 495,
+    "backText": "Regel",
+    "frontText": "rule"
+  },
+  {
+    "id": 496,
+    "backText": "regieren",
+    "frontText": "govern"
+  },
+  {
+    "id": 497,
+    "backText": "ziehen",
+    "frontText": "pull"
+  },
+  {
+    "id": 498,
+    "backText": "Kälte",
+    "frontText": "cold"
+  },
+  {
+    "id": 499,
+    "backText": "Hinweis",
+    "frontText": "notice"
+  },
+  {
+    "id": 500,
+    "backText": "Stimme",
+    "frontText": "voice"
+  },
+  {
+    "id": 501,
+    "backText": "Energie",
+    "frontText": "energy"
+  },
+  {
+    "id": 502,
+    "backText": "Jagd",
+    "frontText": "hunt"
+  },
+  {
+    "id": 503,
+    "backText": "wahrscheinlich",
+    "frontText": "probable"
+  },
+  {
+    "id": 504,
+    "backText": "Bett",
+    "frontText": "bed"
+  },
+  {
+    "id": 505,
+    "backText": "Bruder",
+    "frontText": "brother"
+  },
+  {
+    "id": 506,
+    "backText": "Ei",
+    "frontText": "egg"
+  },
+  {
+    "id": 507,
+    "backText": "Fahrt",
+    "frontText": "ride"
+  },
+  {
+    "id": 508,
+    "backText": "Zelle",
+    "frontText": "cell"
+  },
+  {
+    "id": 509,
+    "backText": "glauben",
+    "frontText": "believe"
+  },
+  {
+    "id": 510,
+    "backText": "vielleicht",
+    "frontText": "perhaps"
+  },
+  {
+    "id": 511,
+    "backText": "pflücken",
+    "frontText": "pick"
+  },
+  {
+    "id": 512,
+    "backText": "plötzlich",
+    "frontText": "sudden"
+  },
+  {
+    "id": 513,
+    "backText": "zählen",
+    "frontText": "count"
+  },
+  {
+    "id": 514,
+    "backText": "Platz",
+    "frontText": "square"
+  },
+  {
+    "id": 515,
+    "backText": "Grund",
+    "frontText": "reason"
+  },
+  {
+    "id": 516,
+    "backText": "Dauer",
+    "frontText": "length"
+  },
+  {
+    "id": 517,
+    "backText": "vertreten",
+    "frontText": "represent"
+  },
+  {
+    "id": 518,
+    "backText": "Kunst",
+    "frontText": "art"
+  },
+  {
+    "id": 519,
+    "backText": "Thema",
+    "frontText": "subject"
+  },
+  {
+    "id": 520,
+    "backText": "Region",
+    "frontText": "region"
+  },
+  {
+    "id": 521,
+    "backText": "Größe",
+    "frontText": "size"
+  },
+  {
+    "id": 522,
+    "backText": "variieren",
+    "frontText": "vary"
+  },
+  {
+    "id": 523,
+    "backText": "regeln",
+    "frontText": "settle"
+  },
+  {
+    "id": 524,
+    "backText": "sprechen",
+    "frontText": "speak"
+  },
+  {
+    "id": 525,
+    "backText": "Gewicht",
+    "frontText": "weight"
+  },
+  {
+    "id": 526,
+    "backText": "allgemein",
+    "frontText": "general"
+  },
+  {
+    "id": 527,
+    "backText": "Eis",
+    "frontText": "ice"
+  },
+  {
+    "id": 528,
+    "backText": "Materie",
+    "frontText": "matter"
+  },
+  {
+    "id": 529,
+    "backText": "Kreis",
+    "frontText": "circle"
+  },
+  {
+    "id": 530,
+    "backText": "Paar",
+    "frontText": "pair"
+  },
+  {
+    "id": 531,
+    "backText": "umfassen",
+    "frontText": "include"
+  },
+  {
+    "id": 532,
+    "backText": "Kluft",
+    "frontText": "divide"
+  },
+  {
+    "id": 533,
+    "backText": "Silbe",
+    "frontText": "syllable"
+  },
+  {
+    "id": 534,
+    "backText": "Filz",
+    "frontText": "felt"
+  },
+  {
+    "id": 535,
+    "backText": "groß",
+    "frontText": "grand"
+  },
+  {
+    "id": 536,
+    "backText": "Kugel",
+    "frontText": "ball"
+  },
+  {
+    "id": 537,
+    "backText": "noch",
+    "frontText": "yet"
+  },
+  {
+    "id": 538,
+    "backText": "Welle",
+    "frontText": "wave"
+  },
+  {
+    "id": 539,
+    "backText": "fallen",
+    "frontText": "drop"
+  },
+  {
+    "id": 540,
+    "backText": "Herz",
+    "frontText": "heart"
+  },
+  {
+    "id": 541,
+    "backText": "Uhr",
+    "frontText": "am"
+  },
+  {
+    "id": 542,
+    "backText": "vorhanden",
+    "frontText": "present"
+  },
+  {
+    "id": 543,
+    "backText": "schwer",
+    "frontText": "heavy"
+  },
+  {
+    "id": 544,
+    "backText": "Tanz",
+    "frontText": "dance"
+  },
+  {
+    "id": 545,
+    "backText": "Motor",
+    "frontText": "engine"
+  },
+  {
+    "id": 546,
+    "backText": "Position",
+    "frontText": "position"
+  },
+  {
+    "id": 547,
+    "backText": "Arm",
+    "frontText": "arm"
+  },
+  {
+    "id": 548,
+    "backText": "breit",
+    "frontText": "wide"
+  },
+  {
+    "id": 549,
+    "backText": "Segel",
+    "frontText": "sail"
+  },
+  {
+    "id": 550,
+    "backText": "Material",
+    "frontText": "material"
+  },
+  {
+    "id": 551,
+    "backText": "Fraktion",
+    "frontText": "fraction"
+  },
+  {
+    "id": 552,
+    "backText": "Wald",
+    "frontText": "forest"
+  },
+  {
+    "id": 553,
+    "backText": "sitzen",
+    "frontText": "sit"
+  },
+  {
+    "id": 554,
+    "backText": "Rennen",
+    "frontText": "race"
+  },
+  {
+    "id": 555,
+    "backText": "Fenster",
+    "frontText": "window"
+  },
+  {
+    "id": 556,
+    "backText": "Speicher",
+    "frontText": "store"
+  },
+  {
+    "id": 557,
+    "backText": "Sommer",
+    "frontText": "summer"
+  },
+  {
+    "id": 558,
+    "backText": "Zug",
+    "frontText": "train"
+  },
+  {
+    "id": 559,
+    "backText": "Schlaf",
+    "frontText": "sleep"
+  },
+  {
+    "id": 560,
+    "backText": "beweisen",
+    "frontText": "prove"
+  },
+  {
+    "id": 561,
+    "backText": "einsam",
+    "frontText": "lone"
+  },
+  {
+    "id": 562,
+    "backText": "Bein",
+    "frontText": "leg"
+  },
+  {
+    "id": 563,
+    "backText": "Übung",
+    "frontText": "exercise"
+  },
+  {
+    "id": 564,
+    "backText": "Wand",
+    "frontText": "wall"
+  },
+  {
+    "id": 565,
+    "backText": "Fang",
+    "frontText": "catch"
+  },
+  {
+    "id": 566,
+    "backText": "Berg",
+    "frontText": "mount"
+  },
+  {
+    "id": 567,
+    "backText": "wünschen",
+    "frontText": "wish"
+  },
+  {
+    "id": 568,
+    "backText": "Himmel",
+    "frontText": "sky"
+  },
+  {
+    "id": 569,
+    "backText": "Board",
+    "frontText": "board"
+  },
+  {
+    "id": 570,
+    "backText": "Freude",
+    "frontText": "joy"
+  },
+  {
+    "id": 571,
+    "backText": "Winter",
+    "frontText": "winter"
+  },
+  {
+    "id": 572,
+    "backText": "sa",
+    "frontText": "sat"
+  },
+  {
+    "id": 573,
+    "backText": "geschrieben",
+    "frontText": "written"
+  },
+  {
+    "id": 574,
+    "backText": "wilden",
+    "frontText": "wild"
+  },
+  {
+    "id": 575,
+    "backText": "Instrument",
+    "frontText": "instrument"
+  },
+  {
+    "id": 576,
+    "backText": "gehalten",
+    "frontText": "kept"
+  },
+  {
+    "id": 577,
+    "backText": "Glas",
+    "frontText": "glass"
+  },
+  {
+    "id": 578,
+    "backText": "Gras",
+    "frontText": "grass"
+  },
+  {
+    "id": 579,
+    "backText": "Kuh",
+    "frontText": "cow"
+  },
+  {
+    "id": 580,
+    "backText": "Arbeit",
+    "frontText": "job"
+  },
+  {
+    "id": 581,
+    "backText": "Rand",
+    "frontText": "edge"
+  },
+  {
+    "id": 582,
+    "backText": "Zeichen",
+    "frontText": "sign"
+  },
+  {
+    "id": 583,
+    "backText": "Besuch",
+    "frontText": "visit"
+  },
+  {
+    "id": 584,
+    "backText": "Vergangenheit",
+    "frontText": "past"
+  },
+  {
+    "id": 585,
+    "backText": "weich",
+    "frontText": "soft"
+  },
+  {
+    "id": 586,
+    "backText": "Spaß",
+    "frontText": "fun"
+  },
+  {
+    "id": 587,
+    "backText": "hell",
+    "frontText": "bright"
+  },
+  {
+    "id": 588,
+    "backText": "Gases",
+    "frontText": "gas"
+  },
+  {
+    "id": 589,
+    "backText": "Wetter",
+    "frontText": "weather"
+  },
+  {
+    "id": 590,
+    "backText": "Monat",
+    "frontText": "month"
+  },
+  {
+    "id": 591,
+    "backText": "Million",
+    "frontText": "million"
+  },
+  {
+    "id": 592,
+    "backText": "tragen",
+    "frontText": "bear"
+  },
+  {
+    "id": 593,
+    "backText": "Finish",
+    "frontText": "finish"
+  },
+  {
+    "id": 594,
+    "backText": "glücklich",
+    "frontText": "happy"
+  },
+  {
+    "id": 595,
+    "backText": "hoffen",
+    "frontText": "hope"
+  },
+  {
+    "id": 596,
+    "backText": "blume",
+    "frontText": "flower"
+  },
+  {
+    "id": 597,
+    "backText": "kleiden",
+    "frontText": "clothe"
+  },
+  {
+    "id": 598,
+    "backText": "seltsam",
+    "frontText": "strange"
+  },
+  {
+    "id": 599,
+    "backText": "Vorbei",
+    "frontText": "gone"
+  },
+  {
+    "id": 600,
+    "backText": "Handel",
+    "frontText": "trade"
+  },
+  {
+    "id": 601,
+    "backText": "Melodie",
+    "frontText": "melody"
+  },
+  {
+    "id": 602,
+    "backText": "Reise",
+    "frontText": "trip"
+  },
+  {
+    "id": 603,
+    "backText": "Büro",
+    "frontText": "office"
+  },
+  {
+    "id": 604,
+    "backText": "empfangen",
+    "frontText": "receive"
+  },
+  {
+    "id": 605,
+    "backText": "Reihe",
+    "frontText": "row"
+  },
+  {
+    "id": 606,
+    "backText": "Mund",
+    "frontText": "mouth"
+  },
+  {
+    "id": 607,
+    "backText": "genau",
+    "frontText": "exact"
+  },
+  {
+    "id": 608,
+    "backText": "Zeichen",
+    "frontText": "symbol"
+  },
+  {
+    "id": 609,
+    "backText": "sterben",
+    "frontText": "die"
+  },
+  {
+    "id": 610,
+    "backText": "am wenigsten",
+    "frontText": "least"
+  },
+  {
+    "id": 611,
+    "backText": "Ärger",
+    "frontText": "trouble"
+  },
+  {
+    "id": 612,
+    "backText": "Schrei",
+    "frontText": "shout"
+  },
+  {
+    "id": 613,
+    "backText": "außer",
+    "frontText": "except"
+  },
+  {
+    "id": 614,
+    "backText": "schrieb",
+    "frontText": "wrote"
+  },
+  {
+    "id": 615,
+    "backText": "Samen",
+    "frontText": "seed"
+  },
+  {
+    "id": 616,
+    "backText": "Ton",
+    "frontText": "tone"
+  },
+  {
+    "id": 617,
+    "backText": "beitreten",
+    "frontText": "join"
+  },
+  {
+    "id": 618,
+    "backText": "vorschlagen",
+    "frontText": "suggest"
+  },
+  {
+    "id": 619,
+    "backText": "sauber",
+    "frontText": "clean"
+  },
+  {
+    "id": 620,
+    "backText": "Pause",
+    "frontText": "break"
+  },
+  {
+    "id": 621,
+    "backText": "Dame",
+    "frontText": "lady"
+  },
+  {
+    "id": 622,
+    "backText": "Hof",
+    "frontText": "yard"
+  },
+  {
+    "id": 623,
+    "backText": "steigen",
+    "frontText": "rise"
+  },
+  {
+    "id": 624,
+    "backText": "schlecht",
+    "frontText": "bad"
+  },
+  {
+    "id": 625,
+    "backText": "Schlag",
+    "frontText": "blow"
+  },
+  {
+    "id": 626,
+    "backText": "Öl",
+    "frontText": "oil"
+  },
+  {
+    "id": 627,
+    "backText": "Blut",
+    "frontText": "blood"
+  },
+  {
+    "id": 628,
+    "backText": "berühren",
+    "frontText": "touch"
+  },
+  {
+    "id": 629,
+    "backText": "wuchs",
+    "frontText": "grew"
+  },
+  {
+    "id": 630,
+    "backText": "Cent",
+    "frontText": "cent"
+  },
+  {
+    "id": 631,
+    "backText": "mischen",
+    "frontText": "mix"
+  },
+  {
+    "id": 632,
+    "backText": "Mannschaft",
+    "frontText": "team"
+  },
+  {
+    "id": 633,
+    "backText": "Draht",
+    "frontText": "wire"
+  },
+  {
+    "id": 634,
+    "backText": "Kosten",
+    "frontText": "cost"
+  },
+  {
+    "id": 635,
+    "backText": "verloren",
+    "frontText": "lost"
+  },
+  {
+    "id": 636,
+    "backText": "braun",
+    "frontText": "brown"
+  },
+  {
+    "id": 637,
+    "backText": "tragen",
+    "frontText": "wear"
+  },
+  {
+    "id": 638,
+    "backText": "Garten",
+    "frontText": "garden"
+  },
+  {
+    "id": 639,
+    "backText": "gleich",
+    "frontText": "equal"
+  },
+  {
+    "id": 640,
+    "backText": "gesendet",
+    "frontText": "sent"
+  },
+  {
+    "id": 641,
+    "backText": "wählen",
+    "frontText": "choose"
+  },
+  {
+    "id": 642,
+    "backText": "fiel",
+    "frontText": "fell"
+  },
+  {
+    "id": 643,
+    "backText": "passen",
+    "frontText": "fit"
+  },
+  {
+    "id": 644,
+    "backText": "fließen",
+    "frontText": "flow"
+  },
+  {
+    "id": 645,
+    "backText": "Messe",
+    "frontText": "fair"
+  },
+  {
+    "id": 646,
+    "backText": "Bank",
+    "frontText": "bank"
+  },
+  {
+    "id": 647,
+    "backText": "sammeln",
+    "frontText": "collect"
+  },
+  {
+    "id": 648,
+    "backText": "sparen",
+    "frontText": "save"
+  },
+  {
+    "id": 649,
+    "backText": "Kontrolle",
+    "frontText": "control"
+  },
+  {
+    "id": 650,
+    "backText": "dezimal",
+    "frontText": "decimal"
+  },
+  {
+    "id": 651,
+    "backText": "Ohr",
+    "frontText": "ear"
+  },
+  {
+    "id": 652,
+    "backText": "sonst",
+    "frontText": "else"
+  },
+  {
+    "id": 653,
+    "backText": "ganz",
+    "frontText": "quite"
+  },
+  {
+    "id": 654,
+    "backText": "pleite",
+    "frontText": "broke"
+  },
+  {
+    "id": 655,
+    "backText": "Fall",
+    "frontText": "case"
+  },
+  {
+    "id": 656,
+    "backText": "Mitte",
+    "frontText": "middle"
+  },
+  {
+    "id": 657,
+    "backText": "töten",
+    "frontText": "kill"
+  },
+  {
+    "id": 658,
+    "backText": "Sohn",
+    "frontText": "son"
+  },
+  {
+    "id": 659,
+    "backText": "See",
+    "frontText": "lake"
+  },
+  {
+    "id": 660,
+    "backText": "Moment",
+    "frontText": "moment"
+  },
+  {
+    "id": 661,
+    "backText": "Maßstab",
+    "frontText": "scale"
+  },
+  {
+    "id": 662,
+    "backText": "laut",
+    "frontText": "loud"
+  },
+  {
+    "id": 663,
+    "backText": "Frühling",
+    "frontText": "spring"
+  },
+  {
+    "id": 664,
+    "backText": "beobachten",
+    "frontText": "observe"
+  },
+  {
+    "id": 665,
+    "backText": "Kind",
+    "frontText": "child"
+  },
+  {
+    "id": 666,
+    "backText": "gerade",
+    "frontText": "straight"
+  },
+  {
+    "id": 667,
+    "backText": "Konsonant",
+    "frontText": "consonant"
+  },
+  {
+    "id": 668,
+    "backText": "Nation",
+    "frontText": "nation"
+  },
+  {
+    "id": 669,
+    "backText": "Wörterbuch",
+    "frontText": "dictionary"
+  },
+  {
+    "id": 670,
+    "backText": "milch",
+    "frontText": "milk"
+  },
+  {
+    "id": 671,
+    "backText": "Geschwindigkeit",
+    "frontText": "speed"
+  },
+  {
+    "id": 672,
+    "backText": "Verfahren",
+    "frontText": "method"
+  },
+  {
+    "id": 673,
+    "backText": "Orgel",
+    "frontText": "organ"
+  },
+  {
+    "id": 674,
+    "backText": "zahlen",
+    "frontText": "pay"
+  },
+  {
+    "id": 675,
+    "backText": "Alter",
+    "frontText": "age"
+  },
+  {
+    "id": 676,
+    "backText": "Abschnitt",
+    "frontText": "section"
+  },
+  {
+    "id": 677,
+    "backText": "Kleid",
+    "frontText": "dress"
+  },
+  {
+    "id": 678,
+    "backText": "Wolke",
+    "frontText": "cloud"
+  },
+  {
+    "id": 679,
+    "backText": "Überraschung",
+    "frontText": "surprise"
+  },
+  {
+    "id": 680,
+    "backText": "ruhig",
+    "frontText": "quiet"
+  },
+  {
+    "id": 681,
+    "backText": "Stein",
+    "frontText": "stone"
+  },
+  {
+    "id": 682,
+    "backText": "winzig",
+    "frontText": "tiny"
+  },
+  {
+    "id": 683,
+    "backText": "Aufstieg",
+    "frontText": "climb"
+  },
+  {
+    "id": 684,
+    "backText": "kühlen",
+    "frontText": "cool"
+  },
+  {
+    "id": 685,
+    "backText": "Entwurf",
+    "frontText": "design"
+  },
+  {
+    "id": 686,
+    "backText": "arm",
+    "frontText": "poor"
+  },
+  {
+    "id": 687,
+    "backText": "Menge",
+    "frontText": "lot"
+  },
+  {
+    "id": 688,
+    "backText": "Versuch",
+    "frontText": "experiment"
+  },
+  {
+    "id": 689,
+    "backText": "Boden",
+    "frontText": "bottom"
+  },
+  {
+    "id": 690,
+    "backText": "Schlüssel",
+    "frontText": "key"
+  },
+  {
+    "id": 691,
+    "backText": "Eisen",
+    "frontText": "iron"
+  },
+  {
+    "id": 692,
+    "backText": "Einzel",
+    "frontText": "single"
+  },
+  {
+    "id": 693,
+    "backText": "Stick",
+    "frontText": "stick"
+  },
+  {
+    "id": 694,
+    "backText": "Wohnung",
+    "frontText": "flat"
+  },
+  {
+    "id": 695,
+    "backText": "zwanzig",
+    "frontText": "twenty"
+  },
+  {
+    "id": 696,
+    "backText": "Haut",
+    "frontText": "skin"
+  },
+  {
+    "id": 697,
+    "backText": "Lächeln",
+    "frontText": "smile"
+  },
+  {
+    "id": 698,
+    "backText": "Falte",
+    "frontText": "crease"
+  },
+  {
+    "id": 699,
+    "backText": "Loch",
+    "frontText": "hole"
+  },
+  {
+    "id": 700,
+    "backText": "springen",
+    "frontText": "jump"
+  },
+  {
+    "id": 701,
+    "backText": "Kind",
+    "frontText": "baby"
+  },
+  {
+    "id": 702,
+    "backText": "acht",
+    "frontText": "eight"
+  },
+  {
+    "id": 703,
+    "backText": "Dorf",
+    "frontText": "village"
+  },
+  {
+    "id": 704,
+    "backText": "treffen",
+    "frontText": "meet"
+  },
+  {
+    "id": 705,
+    "backText": "Wurzel",
+    "frontText": "root"
+  },
+  {
+    "id": 706,
+    "backText": "kaufen",
+    "frontText": "buy"
+  },
+  {
+    "id": 707,
+    "backText": "erhöhen",
+    "frontText": "raise"
+  },
+  {
+    "id": 708,
+    "backText": "lösen",
+    "frontText": "solve"
+  },
+  {
+    "id": 709,
+    "backText": "Metall",
+    "frontText": "metal"
+  },
+  {
+    "id": 710,
+    "backText": "ob",
+    "frontText": "whether"
+  },
+  {
+    "id": 711,
+    "backText": "drücken",
+    "frontText": "push"
+  },
+  {
+    "id": 712,
+    "backText": "sieben",
+    "frontText": "seven"
+  },
+  {
+    "id": 713,
+    "backText": "Absatz",
+    "frontText": "paragraph"
+  },
+  {
+    "id": 714,
+    "backText": "dritte",
+    "frontText": "third"
+  },
+  {
+    "id": 715,
+    "backText": "wird",
+    "frontText": "shall"
+  },
+  {
+    "id": 716,
+    "backText": "Hand",
+    "frontText": "held"
+  },
+  {
+    "id": 717,
+    "backText": "Haar",
+    "frontText": "hair"
+  },
+  {
+    "id": 718,
+    "backText": "beschreiben",
+    "frontText": "describe"
+  },
+  {
+    "id": 719,
+    "backText": "Koch",
+    "frontText": "cook"
+  },
+  {
+    "id": 720,
+    "backText": "Boden",
+    "frontText": "floor"
+  },
+  {
+    "id": 721,
+    "backText": "entweder",
+    "frontText": "either"
+  },
+  {
+    "id": 722,
+    "backText": "Ergebnis",
+    "frontText": "result"
+  },
+  {
+    "id": 723,
+    "backText": "brennen",
+    "frontText": "burn"
+  },
+  {
+    "id": 724,
+    "backText": "Hügel",
+    "frontText": "hill"
+  },
+  {
+    "id": 725,
+    "backText": "sicher",
+    "frontText": "safe"
+  },
+  {
+    "id": 726,
+    "backText": "Katze",
+    "frontText": "cat"
+  },
+  {
+    "id": 727,
+    "backText": "Jahrhundert",
+    "frontText": "century"
+  },
+  {
+    "id": 728,
+    "backText": "betrachten",
+    "frontText": "consider"
+  },
+  {
+    "id": 729,
+    "backText": "Typ",
+    "frontText": "type"
+  },
+  {
+    "id": 730,
+    "backText": "Gesetz",
+    "frontText": "law"
+  },
+  {
+    "id": 731,
+    "backText": "Bit",
+    "frontText": "bit"
+  },
+  {
+    "id": 732,
+    "backText": "Küste",
+    "frontText": "coast"
+  },
+  {
+    "id": 733,
+    "backText": "Kopie",
+    "frontText": "copy"
+  },
+  {
+    "id": 734,
+    "backText": "Ausdruck",
+    "frontText": "phrase"
+  },
+  {
+    "id": 735,
+    "backText": "still",
+    "frontText": "silent"
+  },
+  {
+    "id": 736,
+    "backText": "hoch",
+    "frontText": "tall"
+  },
+  {
+    "id": 737,
+    "backText": "Sand",
+    "frontText": "sand"
+  },
+  {
+    "id": 738,
+    "backText": "Boden",
+    "frontText": "soil"
+  },
+  {
+    "id": 739,
+    "backText": "Rolle",
+    "frontText": "roll"
+  },
+  {
+    "id": 740,
+    "backText": "Temperatur",
+    "frontText": "temperature"
+  },
+  {
+    "id": 741,
+    "backText": "Finger",
+    "frontText": "finger"
+  },
+  {
+    "id": 742,
+    "backText": "Industrie",
+    "frontText": "industry"
+  },
+  {
+    "id": 743,
+    "backText": "Wert",
+    "frontText": "value"
+  },
+  {
+    "id": 744,
+    "backText": "Kampf",
+    "frontText": "fight"
+  },
+  {
+    "id": 745,
+    "backText": "Lüge",
+    "frontText": "lie"
+  },
+  {
+    "id": 746,
+    "backText": "schlagen",
+    "frontText": "beat"
+  },
+  {
+    "id": 747,
+    "backText": "begeistern",
+    "frontText": "excite"
+  },
+  {
+    "id": 748,
+    "backText": "natürlich",
+    "frontText": "natural"
+  },
+  {
+    "id": 749,
+    "backText": "Blick",
+    "frontText": "view"
+  },
+  {
+    "id": 750,
+    "backText": "Sinn",
+    "frontText": "sense"
+  },
+  {
+    "id": 751,
+    "backText": "Hauptstadt",
+    "frontText": "capital"
+  },
+  {
+    "id": 752,
+    "backText": "wird nicht",
+    "frontText": "won’t"
+  },
+  {
+    "id": 753,
+    "backText": "Stuhl",
+    "frontText": "chair"
+  },
+  {
+    "id": 754,
+    "backText": "Achtung",
+    "frontText": "danger"
+  },
+  {
+    "id": 755,
+    "backText": "Obst",
+    "frontText": "fruit"
+  },
+  {
+    "id": 756,
+    "backText": "reich",
+    "frontText": "rich"
+  },
+  {
+    "id": 757,
+    "backText": "dick",
+    "frontText": "thick"
+  },
+  {
+    "id": 758,
+    "backText": "Soldat",
+    "frontText": "soldier"
+  },
+  {
+    "id": 759,
+    "backText": "Prozess",
+    "frontText": "process"
+  },
+  {
+    "id": 760,
+    "backText": "betreiben",
+    "frontText": "operate"
+  },
+  {
+    "id": 761,
+    "backText": "Praxis",
+    "frontText": "practice"
+  },
+  {
+    "id": 762,
+    "backText": "trennen",
+    "frontText": "separate"
+  },
+  {
+    "id": 763,
+    "backText": "schwierig",
+    "frontText": "difficult"
+  },
+  {
+    "id": 764,
+    "backText": "Arzt",
+    "frontText": "doctor"
+  },
+  {
+    "id": 765,
+    "backText": "Bitte",
+    "frontText": "please"
+  },
+  {
+    "id": 766,
+    "backText": "schützen",
+    "frontText": "protect"
+  },
+  {
+    "id": 767,
+    "backText": "Mittag",
+    "frontText": "noon"
+  },
+  {
+    "id": 768,
+    "backText": "Ernte",
+    "frontText": "crop"
+  },
+  {
+    "id": 769,
+    "backText": "modernen",
+    "frontText": "modern"
+  },
+  {
+    "id": 770,
+    "backText": "Elementes",
+    "frontText": "element"
+  },
+  {
+    "id": 771,
+    "backText": "treffen",
+    "frontText": "hit"
+  },
+  {
+    "id": 772,
+    "backText": "Schüler",
+    "frontText": "student"
+  },
+  {
+    "id": 773,
+    "backText": "Ecke",
+    "frontText": "corner"
+  },
+  {
+    "id": 774,
+    "backText": "Partei",
+    "frontText": "party"
+  },
+  {
+    "id": 775,
+    "backText": "Versorgung",
+    "frontText": "supply"
+  },
+  {
+    "id": 776,
+    "backText": "deren",
+    "frontText": "whose"
+  },
+  {
+    "id": 777,
+    "backText": "lokalisieren",
+    "frontText": "locate"
+  },
+  {
+    "id": 778,
+    "backText": "Rings",
+    "frontText": "ring"
+  },
+  {
+    "id": 779,
+    "backText": "Charakter",
+    "frontText": "character"
+  },
+  {
+    "id": 780,
+    "backText": "insekt",
+    "frontText": "insect"
+  },
+  {
+    "id": 781,
+    "backText": "gefangen",
+    "frontText": "caught"
+  },
+  {
+    "id": 782,
+    "backText": "Zeit",
+    "frontText": "period"
+  },
+  {
+    "id": 783,
+    "backText": "zeigen",
+    "frontText": "indicate"
+  },
+  {
+    "id": 784,
+    "backText": "Funk",
+    "frontText": "radio"
+  },
+  {
+    "id": 785,
+    "backText": "Speiche",
+    "frontText": "spoke"
+  },
+  {
+    "id": 786,
+    "backText": "Atom",
+    "frontText": "atom"
+  },
+  {
+    "id": 787,
+    "backText": "Mensch",
+    "frontText": "human"
+  },
+  {
+    "id": 788,
+    "backText": "Geschichte",
+    "frontText": "history"
+  },
+  {
+    "id": 789,
+    "backText": "Wirkung",
+    "frontText": "effect"
+  },
+  {
+    "id": 790,
+    "backText": "elektrisch",
+    "frontText": "electric"
+  },
+  {
+    "id": 791,
+    "backText": "erwarten",
+    "frontText": "expect"
+  },
+  {
+    "id": 792,
+    "backText": "Knochen",
+    "frontText": "bone"
+  },
+  {
+    "id": 793,
+    "backText": "Schiene",
+    "frontText": "rail"
+  },
+  {
+    "id": 794,
+    "backText": "vorstellen",
+    "frontText": "imagine"
+  },
+  {
+    "id": 795,
+    "backText": "bieten",
+    "frontText": "provide"
+  },
+  {
+    "id": 796,
+    "backText": "zustimmen",
+    "frontText": "agree"
+  },
+  {
+    "id": 797,
+    "backText": "so",
+    "frontText": "thus"
+  },
+  {
+    "id": 798,
+    "backText": "sanft",
+    "frontText": "gentle"
+  },
+  {
+    "id": 799,
+    "backText": "Frau",
+    "frontText": "woman"
+  },
+  {
+    "id": 800,
+    "backText": "Kapitän",
+    "frontText": "captain"
+  },
+  {
+    "id": 801,
+    "backText": "erraten",
+    "frontText": "guess"
+  },
+  {
+    "id": 802,
+    "backText": "erforderlich",
+    "frontText": "necessary"
+  },
+  {
+    "id": 803,
+    "backText": "scharf",
+    "frontText": "sharp"
+  },
+  {
+    "id": 804,
+    "backText": "Flügel",
+    "frontText": "wing"
+  },
+  {
+    "id": 805,
+    "backText": "schaffen",
+    "frontText": "create"
+  },
+  {
+    "id": 806,
+    "backText": "Nachbar",
+    "frontText": "neighbor"
+  },
+  {
+    "id": 807,
+    "backText": "Wasch",
+    "frontText": "wash"
+  },
+  {
+    "id": 808,
+    "backText": "Fledermaus",
+    "frontText": "bat"
+  },
+  {
+    "id": 809,
+    "backText": "eher",
+    "frontText": "rather"
+  },
+  {
+    "id": 810,
+    "backText": "Menge",
+    "frontText": "crowd"
+  },
+  {
+    "id": 811,
+    "backText": "mais",
+    "frontText": "corn"
+  },
+  {
+    "id": 812,
+    "backText": "vergleichen",
+    "frontText": "compare"
+  },
+  {
+    "id": 813,
+    "backText": "Gedicht",
+    "frontText": "poem"
+  },
+  {
+    "id": 814,
+    "backText": "Schnur",
+    "frontText": "string"
+  },
+  {
+    "id": 815,
+    "backText": "Glocke",
+    "frontText": "bell"
+  },
+  {
+    "id": 816,
+    "backText": "abhängen",
+    "frontText": "depend"
+  },
+  {
+    "id": 817,
+    "backText": "Fleisch",
+    "frontText": "meat"
+  },
+  {
+    "id": 818,
+    "backText": "einreiben",
+    "frontText": "rub"
+  },
+  {
+    "id": 819,
+    "backText": "Rohr",
+    "frontText": "tube"
+  },
+  {
+    "id": 820,
+    "backText": "berühmt",
+    "frontText": "famous"
+  },
+  {
+    "id": 921,
+    "backText": "Dollar",
+    "frontText": "dollar"
+  },
+  {
+    "id": 822,
+    "backText": "Strom",
+    "frontText": "stream"
+  },
+  {
+    "id": 823,
+    "backText": "Angst",
+    "frontText": "fear"
+  },
+  {
+    "id": 284,
+    "backText": "Blick",
+    "frontText": "sight"
+  },
+  {
+    "id": 825,
+    "backText": "dünn",
+    "frontText": "thin"
+  },
+  {
+    "id": 826,
+    "backText": "Dreieck",
+    "frontText": "triangle"
+  },
+  {
+    "id": 827,
+    "backText": "Erde",
+    "frontText": "planet"
+  },
+  {
+    "id": 828,
+    "backText": "Eile",
+    "frontText": "hurry"
+  },
+  {
+    "id": 829,
+    "backText": "Chef",
+    "frontText": "chief"
+  },
+  {
+    "id": 830,
+    "backText": "Kolonie",
+    "frontText": "colony"
+  },
+  {
+    "id": 831,
+    "backText": "Uhr",
+    "frontText": "clock"
+  },
+  {
+    "id": 832,
+    "backText": "Mine",
+    "frontText": "mine"
+  },
+  {
+    "id": 833,
+    "backText": "Krawatte",
+    "frontText": "tie"
+  },
+  {
+    "id": 834,
+    "backText": "eingeben",
+    "frontText": "enter"
+  },
+  {
+    "id": 835,
+    "backText": "Dur",
+    "frontText": "major"
+  },
+  {
+    "id": 836,
+    "backText": "frisch",
+    "frontText": "fresh"
+  },
+  {
+    "id": 837,
+    "backText": "Suche",
+    "frontText": "search"
+  },
+  {
+    "id": 838,
+    "backText": "senden",
+    "frontText": "send"
+  },
+  {
+    "id": 839,
+    "backText": "gelb",
+    "frontText": "yellow"
+  },
+  {
+    "id": 840,
+    "backText": "Pistole",
+    "frontText": "gun"
+  },
+  {
+    "id": 841,
+    "backText": "erlauben",
+    "frontText": "allow"
+  },
+  {
+    "id": 842,
+    "backText": "Druck",
+    "frontText": "print"
+  },
+  {
+    "id": 843,
+    "backText": "tot",
+    "frontText": "dead"
+  },
+  {
+    "id": 844,
+    "backText": "Stelle",
+    "frontText": "spot"
+  },
+  {
+    "id": 845,
+    "backText": "Wüste",
+    "frontText": "desert"
+  },
+  {
+    "id": 846,
+    "backText": "Anzug",
+    "frontText": "suit"
+  },
+  {
+    "id": 847,
+    "backText": "Strom",
+    "frontText": "current"
+  },
+  {
+    "id": 848,
+    "backText": "Aufzug",
+    "frontText": "lift"
+  },
+  {
+    "id": 840,
+    "backText": "stiegen",
+    "frontText": "rose"
+  },
+  {
+    "id": 850,
+    "backText": "ankommen",
+    "frontText": "arrive"
+  },
+  {
+    "id": 851,
+    "backText": "Stamm",
+    "frontText": "master"
+  },
+  {
+    "id": 852,
+    "backText": "Spur",
+    "frontText": "track"
+  },
+  {
+    "id": 853,
+    "backText": "Elternteil",
+    "frontText": "parent"
+  },
+  {
+    "id": 854,
+    "backText": "Ufer",
+    "frontText": "shore"
+  },
+  {
+    "id": 855,
+    "backText": "Teilung",
+    "frontText": "division"
+  },
+  {
+    "id": 856,
+    "backText": "Blatt",
+    "frontText": "sheet"
+  },
+  {
+    "id": 857,
+    "backText": "Substanz",
+    "frontText": "substance"
+  },
+  {
+    "id": 858,
+    "backText": "begünstigen",
+    "frontText": "favor"
+  },
+  {
+    "id": 859,
+    "backText": "verbinden",
+    "frontText": "connect"
+  },
+  {
+    "id": 860,
+    "backText": "nach",
+    "frontText": "post"
+  },
+  {
+    "id": 861,
+    "backText": "verbringen",
+    "frontText": "spend"
+  },
+  {
+    "id": 862,
+    "backText": "Akkord",
+    "frontText": "chord"
+  },
+  {
+    "id": 863,
+    "backText": "Fett",
+    "frontText": "fat"
+  },
+  {
+    "id": 864,
+    "backText": "froh",
+    "frontText": "glad"
+  },
+  {
+    "id": 865,
+    "backText": "Original",
+    "frontText": "original"
+  },
+  {
+    "id": 866,
+    "backText": "Aktie",
+    "frontText": "share"
+  },
+  {
+    "id": 867,
+    "backText": "Station",
+    "frontText": "station"
+  },
+  {
+    "id": 868,
+    "backText": "Papa",
+    "frontText": "dad"
+  },
+  {
+    "id": 869,
+    "backText": "Brot",
+    "frontText": "bread"
+  },
+  {
+    "id": 870,
+    "backText": "aufladen",
+    "frontText": "charge"
+  },
+  {
+    "id": 871,
+    "backText": "richtig",
+    "frontText": "proper"
+  },
+  {
+    "id": 872,
+    "backText": "Leiste",
+    "frontText": "bar"
+  },
+  {
+    "id": 873,
+    "backText": "Angebot",
+    "frontText": "offer"
+  },
+  {
+    "id": 874,
+    "backText": "Segment",
+    "frontText": "segment"
+  },
+  {
+    "id": 875,
+    "backText": "Sklave",
+    "frontText": "slave"
+  },
+  {
+    "id": 876,
+    "backText": "ente",
+    "frontText": "duck"
+  },
+  {
+    "id": 877,
+    "backText": "Augenblick",
+    "frontText": "instant"
+  },
+  {
+    "id": 878,
+    "backText": "Markt",
+    "frontText": "market"
+  },
+  {
+    "id": 879,
+    "backText": "Grad",
+    "frontText": "degree"
+  },
+  {
+    "id": 880,
+    "backText": "besiedeln",
+    "frontText": "populate"
+  },
+  {
+    "id": 881,
+    "backText": "küken",
+    "frontText": "chick"
+  },
+  {
+    "id": 882,
+    "backText": "liebe",
+    "frontText": "dear"
+  },
+  {
+    "id": 883,
+    "backText": "Feind",
+    "frontText": "enemy"
+  },
+  {
+    "id": 884,
+    "backText": "antworten",
+    "frontText": "reply"
+  },
+  {
+    "id": 885,
+    "backText": "Getränk",
+    "frontText": "drink"
+  },
+  {
+    "id": 886,
+    "backText": "auftreten",
+    "frontText": "occur"
+  },
+  {
+    "id": 887,
+    "backText": "Unterstützung",
+    "frontText": "support"
+  },
+  {
+    "id": 888,
+    "backText": "Rede",
+    "frontText": "speech"
+  },
+  {
+    "id": 889,
+    "backText": "Natur",
+    "frontText": "nature"
+  },
+  {
+    "id": 890,
+    "backText": "Angebot",
+    "frontText": "range"
+  },
+  {
+    "id": 891,
+    "backText": "Dampf",
+    "frontText": "steam"
+  },
+  {
+    "id": 892,
+    "backText": "Bewegung",
+    "frontText": "motion"
+  },
+  {
+    "id": 893,
+    "backText": "Weg",
+    "frontText": "path"
+  },
+  {
+    "id": 894,
+    "backText": "Flüssigkeit",
+    "frontText": "liquid"
+  },
+  {
+    "id": 895,
+    "backText": "protokollieren",
+    "frontText": "log"
+  },
+  {
+    "id": 896,
+    "backText": "gemeint",
+    "frontText": "meant"
+  },
+  {
+    "id": 897,
+    "backText": "Quotient",
+    "frontText": "quotient"
+  },
+  {
+    "id": 898,
+    "backText": "Gebiss",
+    "frontText": "teeth"
+  },
+  {
+    "id": 899,
+    "backText": "Schale",
+    "frontText": "shell"
+  },
+  {
+    "id": 900,
+    "backText": "Hals",
+    "frontText": "neck"
+  },
+  {
+    "id": 901,
+    "backText": "Sauerstoff",
+    "frontText": "oxygen"
+  },
+  {
+    "id": 902,
+    "backText": "Zucker",
+    "frontText": "sugar"
+  },
+  {
+    "id": 903,
+    "backText": "Tod",
+    "frontText": "death"
+  },
+  {
+    "id": 904,
+    "backText": "ziemlich",
+    "frontText": "pretty"
+  },
+  {
+    "id": 905,
+    "backText": "Geschicklichkeit",
+    "frontText": "skill"
+  },
+  {
+    "id": 906,
+    "backText": "Frauen",
+    "frontText": "women"
+  },
+  {
+    "id": 907,
+    "backText": "Saison",
+    "frontText": "season"
+  },
+  {
+    "id": 908,
+    "backText": "Lösung",
+    "frontText": "solution"
+  },
+  {
+    "id": 909,
+    "backText": "Magnet",
+    "frontText": "magnet"
+  },
+  {
+    "id": 910,
+    "backText": "Silber",
+    "frontText": "silver"
+  },
+  {
+    "id": 911,
+    "backText": "danken",
+    "frontText": "thank"
+  },
+  {
+    "id": 912,
+    "backText": "Zweig",
+    "frontText": "branch"
+  },
+  {
+    "id": 913,
+    "backText": "Spiel",
+    "frontText": "match"
+  },
+  {
+    "id": 914,
+    "backText": "Suffix",
+    "frontText": "suffix"
+  },
+  {
+    "id": 915,
+    "backText": "insbesondere",
+    "frontText": "especially"
+  },
+  {
+    "id": 916,
+    "backText": "Feige",
+    "frontText": "fig"
+  },
+  {
+    "id": 917,
+    "backText": "ängstlich",
+    "frontText": "afraid"
+  },
+  {
+    "id": 918,
+    "backText": "riesig",
+    "frontText": "huge"
+  },
+  {
+    "id": 919,
+    "backText": "Schwester",
+    "frontText": "sister"
+  },
+  {
+    "id": 920,
+    "backText": "Stahl",
+    "frontText": "steel"
+  },
+  {
+    "id": 921,
+    "backText": "diskutieren",
+    "frontText": "discuss"
+  },
+  {
+    "id": 922,
+    "backText": "vorwärts",
+    "frontText": "forward"
+  },
+  {
+    "id": 923,
+    "backText": "ähnlich",
+    "frontText": "similar"
+  },
+  {
+    "id": 924,
+    "backText": "führen",
+    "frontText": "guide"
+  },
+  {
+    "id": 925,
+    "backText": "Erfahrung",
+    "frontText": "experience"
+  },
+  {
+    "id": 926,
+    "backText": "Partitur",
+    "frontText": "score"
+  },
+  {
+    "id": 927,
+    "backText": "apfel",
+    "frontText": "apple"
+  },
+  {
+    "id": 928,
+    "backText": "gekauft",
+    "frontText": "bought"
+  },
+  {
+    "id": 929,
+    "backText": "geführt",
+    "frontText": "led"
+  },
+  {
+    "id": 930,
+    "backText": "Tonhöhe",
+    "frontText": "pitch"
+  },
+  {
+    "id": 931,
+    "backText": "Mantel",
+    "frontText": "coat"
+  },
+  {
+    "id": 932,
+    "backText": "Masse",
+    "frontText": "mass"
+  },
+  {
+    "id": 933,
+    "backText": "Karte",
+    "frontText": "card"
+  },
+  {
+    "id": 934,
+    "backText": "Band",
+    "frontText": "band"
+  },
+  {
+    "id": 935,
+    "backText": "Seil",
+    "frontText": "rope"
+  },
+  {
+    "id": 936,
+    "backText": "Rutsch",
+    "frontText": "slip"
+  },
+  {
+    "id": 937,
+    "backText": "gewinnen",
+    "frontText": "win"
+  },
+  {
+    "id": 938,
+    "backText": "träumen",
+    "frontText": "dream"
+  },
+  {
+    "id": 939,
+    "backText": "Abend",
+    "frontText": "evening"
+  },
+  {
+    "id": 940,
+    "backText": "Zustand",
+    "frontText": "condition"
+  },
+  {
+    "id": 941,
+    "backText": "Futtermittel",
+    "frontText": "feed"
+  },
+  {
+    "id": 942,
+    "backText": "Werkzeug",
+    "frontText": "tool"
+  },
+  {
+    "id": 943,
+    "backText": "gesamt",
+    "frontText": "total"
+  },
+  {
+    "id": 944,
+    "backText": "Basis",
+    "frontText": "basic"
+  },
+  {
+    "id": 945,
+    "backText": "Geruch",
+    "frontText": "smell"
+  },
+  {
+    "id": 946,
+    "backText": "Tal",
+    "frontText": "valley"
+  },
+  {
+    "id": 947,
+    "backText": "noch",
+    "frontText": "nor"
+  },
+  {
+    "id": 948,
+    "backText": "doppelt",
+    "frontText": "double"
+  },
+  {
+    "id": 949,
+    "backText": "Sitz",
+    "frontText": "seat"
+  },
+  {
+    "id": 950,
+    "backText": "fortsetzen",
+    "frontText": "continue"
+  },
+  {
+    "id": 951,
+    "backText": "Block",
+    "frontText": "block"
+  },
+  {
+    "id": 952,
+    "backText": "Tabelle",
+    "frontText": "chart"
+  },
+  {
+    "id": 953,
+    "backText": "Hut",
+    "frontText": "hat"
+  },
+  {
+    "id": 954,
+    "backText": "verkaufen",
+    "frontText": "sell"
+  },
+  {
+    "id": 955,
+    "backText": "Erfolg",
+    "frontText": "success"
+  },
+  {
+    "id": 956,
+    "backText": "Firma",
+    "frontText": "company"
+  },
+  {
+    "id": 957,
+    "backText": "subtrahieren",
+    "frontText": "subtract"
+  },
+  {
+    "id": 958,
+    "backText": "Veranstaltung",
+    "frontText": "event"
+  },
+  {
+    "id": 959,
+    "backText": "besondere",
+    "frontText": "particular"
+  },
+  {
+    "id": 960,
+    "backText": "viel",
+    "frontText": "deal"
+  },
+  {
+    "id": 961,
+    "backText": "schwimmen",
+    "frontText": "swim"
+  },
+  {
+    "id": 962,
+    "backText": "Begriff",
+    "frontText": "term"
+  },
+  {
+    "id": 963,
+    "backText": "Gegenteil",
+    "frontText": "opposite"
+  },
+  {
+    "id": 964,
+    "backText": "Frau",
+    "frontText": "wife"
+  },
+  {
+    "id": 965,
+    "backText": "Schuh",
+    "frontText": "shoe"
+  },
+  {
+    "id": 966,
+    "backText": "Schulter",
+    "frontText": "shoulder"
+  },
+  {
+    "id": 967,
+    "backText": "Verbreitung",
+    "frontText": "spread"
+  },
+  {
+    "id": 968,
+    "backText": "arrangieren",
+    "frontText": "arrange"
+  },
+  {
+    "id": 969,
+    "backText": "Lager",
+    "frontText": "camp"
+  },
+  {
+    "id": 970,
+    "backText": "erfinden",
+    "frontText": "invent"
+  },
+  {
+    "id": 971,
+    "backText": "Baumwolle",
+    "frontText": "cotton"
+  },
+  {
+    "id": 972,
+    "backText": "geboren",
+    "frontText": "born"
+  },
+  {
+    "id": 973,
+    "backText": "bestimmen",
+    "frontText": "determine"
+  },
+  {
+    "id": 974,
+    "backText": "Quart",
+    "frontText": "quart"
+  },
+  {
+    "id": 975,
+    "backText": "neun",
+    "frontText": "nine"
+  },
+  {
+    "id": 976,
+    "backText": "Lastwagen",
+    "frontText": "truck"
+  },
+  {
+    "id": 977,
+    "backText": "Lärm",
+    "frontText": "noise"
+  },
+  {
+    "id": 978,
+    "backText": "Ebene",
+    "frontText": "level"
+  },
+  {
+    "id": 979,
+    "backText": "Chance",
+    "frontText": "chance"
+  },
+  {
+    "id": 980,
+    "backText": "sammeln",
+    "frontText": "gather"
+  },
+  {
+    "id": 981,
+    "backText": "Geschäft",
+    "frontText": "shop"
+  },
+  {
+    "id": 982,
+    "backText": "Stretch",
+    "frontText": "stretch"
+  },
+  {
+    "id": 983,
+    "backText": "werfen",
+    "frontText": "throw"
+  },
+  {
+    "id": 984,
+    "backText": "Glanz",
+    "frontText": "shine"
+  },
+  {
+    "id": 985,
+    "backText": "Immobilien",
+    "frontText": "property"
+  },
+  {
+    "id": 986,
+    "backText": "Spalte",
+    "frontText": "column"
+  },
+  {
+    "id": 987,
+    "backText": "Molekül",
+    "frontText": "molecule"
+  },
+  {
+    "id": 988,
+    "backText": "wählen",
+    "frontText": "select"
+  },
+  {
+    "id": 989,
+    "backText": "falsch",
+    "frontText": "wrong"
+  },
+  {
+    "id": 990,
+    "backText": "grau",
+    "frontText": "gray"
+  },
+  {
+    "id": 991,
+    "backText": "Wiederholung",
+    "frontText": "repeat"
+  },
+  {
+    "id": 992,
+    "backText": "erfordern",
+    "frontText": "require"
+  },
+  {
+    "id": 993,
+    "backText": "breit",
+    "frontText": "broad"
+  },
+  {
+    "id": 994,
+    "backText": "vorbereiten",
+    "frontText": "prepare"
+  },
+  {
+    "id": 995,
+    "backText": "Salz",
+    "frontText": "salt"
+  },
+  {
+    "id": 996,
+    "backText": "Nase",
+    "frontText": "nose"
+  },
+  {
+    "id": 997,
+    "backText": "mehreren",
+    "frontText": "plural"
+  },
+  {
+    "id": 998,
+    "backText": "Zorn",
+    "frontText": "anger"
+  },
+  {
+    "id": 999,
+    "backText": "Anspruch",
+    "frontText": "claim"
+  },
+  {
+    "id": 1000,
+    "backText": "Kontinent",
+    "frontText": "continent"
+  }
+]

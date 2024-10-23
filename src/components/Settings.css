@@ -1,0 +1,12 @@
+.lexicons {
+  display: flex;
+  justify-content: space-around;
+}
+.lexicon-div {
+  background-color: grey;
+  border-radius: 0.3em;
+  cursor: pointer;
+}
+.chosen {
+  background-color: green;
+}

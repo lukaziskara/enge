@@ -5,6 +5,7 @@ import Dictionary from "./Dictionary";
 // import Dictionary from "./Dictionary";
 // import englishWords from "../english_words.json";
 import englishWords from "../500-english-words.json";
+import germanWords from "../500-english-words.json";
 
 function Game(props) {
   const [point, setPoint] = useState(0);
@@ -18,8 +19,9 @@ function Game(props) {
     thirdPartState: "third_visible",
   });
   const [numbersAmount, setNumbersAmount] = useState(12);
-
-  const sentences = englishWords;
+  const [dataName, setDataName] = useState("englishWords");
+  console.log("dont change", dataName);
+  const sentences = useMemo(() => console.log("change", dataName), [dataName]);
   console.log(englishWords[400]);
   const wordsForCards = useMemo(() => {
     const wordsForLeft = [];
@@ -88,6 +90,8 @@ function Game(props) {
             setPartOfGame={setPartOfGame}
             numbersAmount={numbersAmount}
             setNumbersAmount={setNumbersAmount}
+            dataName={dataName}
+            setDataName={setDataName}
           />
         ) : partOfGame === 1 ? (
           <Dictionary
